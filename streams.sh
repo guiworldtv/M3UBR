@@ -14,6 +14,6 @@ sed -i "/live_tvi_internacional/ c https://video-auth6.iol.pt/live_tvi_internaci
 
 s# TV Anhanguera Goiania - update the stream URL of TV Anhanguera Goiania
 
-ed -i "hls-globo-go01/ c https://live-as-10-16.video.globo.com/d/s/hls-globo-go01/playlist.m3u8?h=$(wget https://s3.glbimg.com -o /dev/null -O -)/" m3upt.m3u 
+ed -i "hls-globo-go01/ c https://live-as-10-16.video.globo.com/d/s/hls-globo-go01/playlist.m3u8?h=$(wget https://s3.glbimg.com/v1/AUTH_ -o /dev/null -O -)/" m3upt.m3u 
 
 exit 0
