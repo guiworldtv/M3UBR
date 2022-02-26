@@ -12,6 +12,10 @@ sed -i "/live_cnn/ c https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?
 
 sed -i "/live_tvi_internacional/ c https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=$(wget https://services.iol.pt/matrix?userId= -o /dev/null -O -)/" m3upt.m3u
 
+# Globo Internacional - update the stream URL of Globo Internacional
+
+sed -i "hls-globo-go01/ c https://live-as-10-16.video.globo.com/d/s/hls-globo-go01/playlist.m3u8?h=$(wget https://s3.glbimg.com/v1/AUTH_ -o /dev/null -O -)/" m3upt.m3u 
+
 # TV Anhanguera Goiania - update the stream URL of TV Anhanguera Goiania
 
 sed -i "hls-globo-go01/ c https://live-as-10-16.video.globo.com/d/s/hls-globo-go01/playlist.m3u8?h=$(wget https://s3.glbimg.com/v1/AUTH_ -o /dev/null -O -)/" m3upt.m3u 
@@ -83,9 +87,11 @@ sed -i "hls-globo-go01/ c https://live-as-10-16.video.globo.com/d/s/hls-globo-go
 # Big Brother Brasil 2022 - CAM 6 - update the stream URL of Big Brother Brasil 2022 - CAM 6
 
 sed -i "hls-globo-go01/ c https://live-as-10-16.video.globo.com/d/s/hls-globo-go01/playlist.m3u8?h=$(wget https://s3.glbimg.com/v1/AUTH_ -o /dev/null -O -)/" m3upt.m3u 
+
 # Big Brother Brasil 2022 - CAM 7 - update the stream URL of Big Brother Brasil 2022 - CAM 7
 
 sed -i "hls-globo-go01/ c https://live-as-10-16.video.globo.com/d/s/hls-globo-go01/playlist.m3u8?h=$(wget https://s3.glbimg.com/v1/AUTH_ -o /dev/null -O -)/" m3upt.m3u 
+
 # Big Brother Brasil 2022 - CAM 8 - update the stream URL of Big Brother Brasil 2022 - CAM 8
 
 sed -i "hls-globo-go01/ c https://live-as-10-16.video.globo.com/d/s/hls-globo-go01/playlist.m3u8?h=$(wget https://s3.glbimg.com/v1/AUTH_ -o /dev/null -O -)/" m3upt.m3u 
@@ -93,18 +99,17 @@ sed -i "hls-globo-go01/ c https://live-as-10-16.video.globo.com/d/s/hls-globo-go
 # Big Brother Brasil 2022 - CAM 9 - update the stream URL of Big Brother Brasil 2022 - CAM 9
 
 sed -i "hls-globo-go01/ c https://live-as-10-16.video.globo.com/d/s/hls-globo-go01/playlist.m3u8?h=$(wget https://s3.glbimg.com/v1/AUTH_ -o /dev/null -O -)/" m3upt.m3u 
-# Big Brother Brasil 2022 - CAM 10 - update the stream URL of Big Brother Brasil 2022 - CAM 10
+
+#Big Brother Brasil 2022 - CAM 10 - update the stream URL of Big Brother Brasil 2022 - CAM 10
 
 sed -i "hls-globo-go01/ c https://live-as-10-16.video.globo.com/d/s/hls-globo-go01/playlist.m3u8?h=$(wget https://s3.glbimg.com/v1/AUTH_ -o /dev/null -O -)/" m3upt.m3u 
+
 # Big Brother Brasil 2022 - CAM 11 - update the stream URL of Big Brother Brasil 2022 - CAM 11
 
 sed -i "hls-globo-go01/ c https://live-as-10-16.video.globo.com/d/s/hls-globo-go01/playlist.m3u8?h=$(wget https://s3.glbimg.com/v1/AUTH_ -o /dev/null -O -)/" m3upt.m3u 
+
 # Big Brother Brasil 2022 - BATE PAPO - update the stream URL of Big Brother Brasil 2022 - BATE PAPO
 
 sed -i "hls-globo-go01/ c https://live-as-10-16.video.globo.com/d/s/hls-globo-go01/playlist.m3u8?h=$(wget https://s3.glbimg.com/v1/AUTH_ -o /dev/null -O -)/" m3upt.m3u 
-# Big Brother Brasil 2022 - CAM 1 - update the stream URL of Big Brother Brasil 2022 - CAM 1
-
-
-
 
 exit 0
