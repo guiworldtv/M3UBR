@@ -18,7 +18,8 @@ sed -i "hls-globo-go01/ c https://live-as-10-16.video.globo.com/d/s/hls-globo-go
 
 # TV Anhanguera Goiania - update the stream URL of TV Anhanguera Goiania
 
-sed -i "hls-globo-go01/ c https://live-as-10-16.video.globo.com/d/s/hls-globo-go01/playlist.m3u8?h=$(wget https://s3.glbimg.com/v1/AUTH_ -o /dev/null -O -)/" m3upt.m3u 
+sed -i "video.globo.com/ c https://live-as-10-16.video.globo.com/d/s/hls-globo-go01/playlist.m3u8h=$(wget hls-globo-go01_ -o /dev/null -O -)/" m3upt.m3u 
+        
 
 # GloboNews - update the stream URL of GloboNews
 
