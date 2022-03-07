@@ -181,9 +181,10 @@ https://video-auth6.iol.pt/live_tvi_direct/live_tvi_direct/edge_servers/tvireali
 
 
 #EXTINF:-1  group-title="GLOBO'S" group-title="CANAIS ABERTOS" tvg-id="GLOBO USA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/ff/TV_Globo_2021_azul.png/revision/latest/scale-to-width-down/200?cb=20220201030422",Globo Internacional
-https://live-tvg-df-06.video.globo.com/d/nl/s/hls-glbeua/playlist.m3u8?h=0411645711151178926180116456247511502299199dNmofOY-rvDm4slqWavp9w&k=html5&a=F&u=BR~5a39963a-fa9b-4eb1-8612-de4c3358f6c7
+https://gcdn-live.video.globo.com/d/nl/s/hls-glbeua/playlist.m3u8?URLPrefix=aHR0cHM6Ly9nY2RuLWxpdmUudmlkZW8uZ2xvYm8uY29tL2Qvbmwvcy9obHMtZ2xiZXVh&Expires=1646701737&KeyName=key&Signature=LB87kdjrHhilI8Tdl8JigVCPlc0=
 
-
+#EXTINF:-1  group-title="GLOBO'S" group-title="CANAIS ABERTOS" tvg-id="GLOBO USA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/ff/TV_Globo_2021_azul.png/revision/latest/scale-to-width-down/200?cb=20220201030422",Globo Internacional 2
+https://gcdn-live.video.globo.com/d/nl/s/hls-glbeua/hls-glbeua_3539/playlist.m3u8?URLPrefix=aHR0cHM6Ly9nY2RuLWxpdmUudmlkZW8uZ2xvYm8uY29tL2Qvbmwvcy9obHMtZ2xiZXVhLw==&Expires=1646701746&KeyName=key&Signature=zrcJpBhuiCHwFAf-07BQ-9xQB3I=
 
 #EXTINF:-1  group-title="GLOBO'S" group-title="CANAIS ABERTOS" tvg-id="GLOBO GO" tvg-logo="https://s2.glbimg.com/VlRnnoTNxOuENA8W01qTOfDtv-8=/64x45/i.s3.glbimg.com/v1/AUTH_b58693ed41d04a39826739159bf600a0/internal_photos/bs/2018/H/I/hdEcj1Qd2Fq3e4LhMDrA/tv-anhanguera.png",TV Anhanguera Goiania
 https://live-tvg-df-05.video.globo.com/d/s/hls-globo-go01/playlist.m3u8?h=0401646274799923921572716461883991716442119a6zsYl_SyUEuXX0Ee1L3kQ&k=html5&a=F&u=5a39963a-fa9b-4eb1-8612-de4c3358f6c7
@@ -217,7 +218,10 @@ https://live-tvg-df-05.video.globo.com/d/s/hls-maisgsat24ha/playlist.m3u8?h=0411
 *****MEUS CANAIS BIG BROTHER****
 
 #EXTINF:-1  group-title="GLOBOSAT" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/00/Logotipo_Big_Brother_Brasil_01-06.jpg/revision/latest?cb=20210419031425", Big Brother Brasil 2022 - CAM 1
-https://live-tvg-df-01.video.globo.com/d/s/hls-bbb01/playlist.m3u8?h=0411646274841854649344016461884415718303151dr19nxj4iXfSeq2WEsafZw&k=html5&a=F&u=BR~5a39963a-fa9b-4eb1-8612-de4c3358f6c7
+https://gcdn-live.video.globo.com/d/s/hls-bbb01/playlist.m3u8?URLPrefix=aHR0cHM6Ly9nY2RuLWxpdmUudmlkZW8uZ2xvYm8uY29tL2Qvcy9obHMtYmJiMDE=&Expires=1646701846&KeyName=key&Signature=XGRkx6VA205r--vbGQUCHdozp9I=
+
+#EXTINF:-1  group-title="GLOBOSAT" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/00/Logotipo_Big_Brother_Brasil_01-06.jpg/revision/latest?cb=20210419031425", Big Brother Brasil 2022 - CAM 1 - 2
+https://gcdn-live.video.globo.com/d/s/hls-bbb01/hls-bbb01_3539/playlist.m3u8?URLPrefix=aHR0cHM6Ly9nY2RuLWxpdmUudmlkZW8uZ2xvYm8uY29tL2Qvcy9obHMtYmJiMDEv&Expires=1646701847&KeyName=key&Signature=pK_G1-UHGLernkR7vRZmkDggxdU=
 
 #EXTINF:-1  group-title="GLOBOSAT" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/00/Logotipo_Big_Brother_Brasil_01-06.jpg/revision/latest?cb=20210419031425", Big Brother Brasil 2022 - CAM 2
 https://live-tvg-df-01.video.globo.com/d/s/hls-bbb11/playlist.m3u8?h=0411646274917136183556016461885174130671997b-ZXwKG2Pk3rjYckqHYTRw&k=html5&a=F&u=BR~5a39963a-fa9b-4eb1-8612-de4c3358f6c7
