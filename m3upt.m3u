@@ -106,9 +106,6 @@ https://video01.soultv.com.br/cnnbrasil/cnnbrasil/playlist.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://rakuten-euronews-8-pt.samsung.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 group-title= "PORTUGAL" tvg-id="euronw.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Euronews.png",Euronews PT (Kodi) 
-plugin://plugin.video.youtube/play/?video_id=JyC8mwZqJao
-
 #EXTINF:-1 group-title= "PORTUGAL" tvg-id="artv.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/ARTV.png",ARTV
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
@@ -320,11 +317,6 @@ https://oj7lng29dg82-hls-live.5centscdn.com/lives/f7b44cfafd5c52223d5498196c8a2e
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://stream3.camara.gov.br/tv1/manifest.m3u8
-
-#EXTINF:-1 group-title="TV" tvg-id="Futura [Brazil]" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Canal-Futura.png",Canal Futura
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://tv.unisc.br/hls/test.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="AgroBrasil TV" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/AgroBrasil-TV.png",AgroBrasil TV
 #KODIPROP:inputstream=inputstream.adaptive
