@@ -198,7 +198,9 @@ https://live-tvg-df-05.video.globo.com/d/s/hls-globo-go01/playlist.m3u8?h=040164
 #EXTINF:-1  group-title="GLOBOSAT" tvg-logo="https://s2.glbimg.com/2hf9vm2jfD4juRkjDtov4bXJof8=/285x285/https://s2.glbimg.com/SV1JdXeVT4mJ4Eop2h1pJ0lEQSQ=/filters:fill(transparent,false)/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2020/O/n/nslsdxRamJvQ2LydUB7A/globonews.png" url-epg="http://especial1.g1.globo.com/globo-news/index.php" group-title="NEWS WORLD", GloboNews
 https://live-tvg-df-05.video.globo.com/nu/gnews24ha/playlist.m3u8?h=0401646275287162103362216461888871841183494j5MnCQV6VpO0mEVqjQJmRg&k=html5&a=A
 #EXTINF:-1  group-title="GLOBOSAT" tvg-logo="https://s2.glbimg.com/YzjxL0liA-mi3aVbCptgojXuLX8=/285x285/https://s2.glbimg.com/zCZGoshGFCb0MQZt3MMV7JeWSZQ=/filters:fill(transparent,false)/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2020/T/R/Z2rgeLRvS0ptiXCTc30A/viva.png" , Viva
-https://live-as-09-16.video.globo.com/h/0411646122640164329308816460362401522626171co-gmxwuOgzb-9X2iK2rmA/k/html5/a/F/u/BR~5a39963a-fa9b-4eb1-8612-de4c3358f6c7/nu/viva24ha/playlist.m3u8
+https://live-tvg-df-01.video.globo.com/h/0411647017838183637030216469314385321246296ji5-L4ug1WzMmrfC_Jvp4w/k/html5/a/F/u/BR~5a39963a-fa9b-4eb1-8612-de4c3358f6c7/nu/viva24ha/viva24ha-audio_1=96000-video=3442944.m3u8
+#EXTINF:-1  group-title="GLOBOSAT" tvg-logo="https://s2.glbimg.com/YzjxL0liA-mi3aVbCptgojXuLX8=/285x285/https://s2.glbimg.com/zCZGoshGFCb0MQZt3MMV7JeWSZQ=/filters:fill(transparent,false)/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2020/T/R/Z2rgeLRvS0ptiXCTc30A/viva.png" , Viva2
+https://live-tvg-df-01.video.globo.com/h/0411647017838183637030216469314385321246296ji5-L4ug1WzMmrfC_Jvp4w/k/html5/a/F/u/BR~5a39963a-fa9b-4eb1-8612-de4c3358f6c7/nu/viva24ha/playlist.m3u8
 
 #EXTINF:-1  group-title="GLOBOSAT" tvg-logo="https://s2.glbimg.com/35L755MBQhy9WbnJOdzIZcKIkbE=/285x285/https://s2.glbimg.com/TZQ6gSg1wLoy7S-Ei44fAfgcEeo=/filters:fill(transparent,false)/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2020/8/s/ahzcQqSMyCbetR0rp66A/multishow.png", Multishow
 https://live-tvg-df-06.video.globo.com/h/0411645664580620181020216455781801693213314McU8NhpzainxpH2jAr87ww/k/html5/a/F/u/BR~5a39963a-fa9b-4eb1-8612-de4c3358f6c7/nu/msw24ha/playlist.m3u8
@@ -224,46 +226,40 @@ https://live-tvg-df-05.video.globo.com/d/s/hls-maisgsat24ha/playlist.m3u8?h=0411
 *****MEUS CANAIS BIG BROTHER****
 
 #EXTINF:-1  group-title="GLOBOSAT" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/00/Logotipo_Big_Brother_Brasil_01-06.jpg/revision/latest?cb=20210419031425", Big Brother Brasil 2022 - CAM 1
-https://gcdn-live.video.globo.com/d/s/hls-bbb01/playlist.m3u8?URLPrefix=aHR0cHM6Ly9nY2RuLWxpdmUudmlkZW8uZ2xvYm8uY29tL2Qvcy9obHMtYmJiMDE=&Expires=1646701846&KeyName=key&Signature=XGRkx6VA205r--vbGQUCHdozp9I=
+https://live-tvg-df-05.video.globo.com/d/nl/s/hls-bbb01cg/hls-bbb01cg_2359/playlist.m3u8
 
-#EXTINF:-1  group-title="GLOBOSAT" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/00/Logotipo_Big_Brother_Brasil_01-06.jpg/revision/latest?cb=20210419031425", Big Brother Brasil 2022 - CAM 1 - 2
-https://gcdn-live.video.globo.com/d/s/hls-bbb01/hls-bbb01_3539/playlist.m3u8?URLPrefix=aHR0cHM6Ly9nY2RuLWxpdmUudmlkZW8uZ2xvYm8uY29tL2Qvcy9obHMtYmJiMDEv&Expires=1646701847&KeyName=key&Signature=pK_G1-UHGLernkR7vRZmkDggxdU=
+
 
 #EXTINF:-1  group-title="GLOBOSAT" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/00/Logotipo_Big_Brother_Brasil_01-06.jpg/revision/latest?cb=20210419031425", Big Brother Brasil 2022 - CAM 2
-https://live-tvg-df-01.video.globo.com/d/s/hls-bbb11/playlist.m3u8?h=0411646274917136183556016461885174130671997b-ZXwKG2Pk3rjYckqHYTRw&k=html5&a=F&u=BR~5a39963a-fa9b-4eb1-8612-de4c3358f6c7
-#EXTINF:-1  group-title="GLOBOSAT" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/00/Logotipo_Big_Brother_Brasil_01-06.jpg/revision/latest?cb=20210419031425",  Big Brother Brasil 2022 - CAM MOSAICO
-https://live-tvg-df-04.video.globo.com/d/s/hls-bbb12/playlist.m3u8?h=0411645665553114275905616455791531002213832Y0qjg_YLq5TqWK0duLZGig&k=html5&a=F&u=BR~5a39963a-fa9b-4eb1-8612-de4c3358f6c7
+https://live-tvg-df-03.video.globo.com/d/s/hls-bbb11/hls-bbb11_3539/playlist.m3u8
+
 
 #EXTINF:-1  group-title="GLOBOSAT" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/00/Logotipo_Big_Brother_Brasil_01-06.jpg/revision/latest?cb=20210419031425",Big Brother Brasil 2022 - CAM 3
-https://live-tvg-df-04.video.globo.com/d/s/hls-bbb03/playlist.m3u8?h=0411645665660262920798316455792601713637911tE8uvnDNgfWov8JlTIlzMw&k=html5&a=F&u=BR~5a39963a-fa9b-4eb1-8612-de4c3358f6c7
+https://live-tvg-df-04.video.globo.com/d/s/hls-bbb10/hls-bbb10_3539/playlist.m3u8
 
 #EXTINF:-1  group-title="GLOBOSAT" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/00/Logotipo_Big_Brother_Brasil_01-06.jpg/revision/latest?cb=20210419031425",Big Brother Brasil 2022 - CAM 4
-https://live-tvg-df-04.video.globo.com/d/s/hls-bbb04/playlist.m3u8?h=0411645665692875970956016455792923215420844feG4rFdHuxF3u9v5JWBMAg&k=html5&a=F&u=BR~5a39963a-fa9b-4eb1-8612-de4c3358f6c7
+https://live-tvg-df-05.video.globo.com/d/s/hls-bbb09/hls-bbb09_3539/playlist.m3u8
 
 #EXTINF:-1  group-title="GLOBOSAT" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/00/Logotipo_Big_Brother_Brasil_01-06.jpg/revision/latest?cb=20210419031425",Big Brother Brasil 2022 - CAM 5
-https://live-tvg-df-06.video.globo.com/d/s/hls-bbb07/playlist.m3u8?h=0411645665725842237263716455793256682216603j95q_OVxBCVLsj46MWqQpw&k=html5&a=F&u=BR~5a39963a-fa9b-4eb1-8612-de4c3358f6c7
+https://live-tvg-df-02.video.globo.com/d/s/hls-bbb08/hls-bbb08_3539/playlist.m3u8
 
 #EXTINF:-1  group-title="GLOBOSAT" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/00/Logotipo_Big_Brother_Brasil_01-06.jpg/revision/latest?cb=20210419031425",Big Brother Brasil 2022 - CAM 6
-https://live-tvg-df-01.video.globo.com/d/s/hls-bbb06/playlist.m3u8?h=0411645665752523052165416455793525593687008LF8RDsObdxggnBUn6L2VuQ&k=html5&a=F&u=BR~5a39963a-fa9b-4eb1-8612-de4c3358f6c7
+https://live-tvg-df-06.video.globo.com/d/s/hls-bbb07/hls-bbb07_3539/playlist.m3u8
 
 #EXTINF:-1  group-title="GLOBOSAT" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/00/Logotipo_Big_Brother_Brasil_01-06.jpg/revision/latest?cb=20210419031425",Big Brother Brasil 2022 - CAM 7
-https://live-tvg-df-01.video.globo.com/d/s/hls-bbb08/playlist.m3u8?h=0411645665811129736633516455794118892781703-mCcTAvg3aAyXjS3ApqJPg&k=html5&a=F&u=BR~5a39963a-fa9b-4eb1-8612-de4c3358f6c7
+https://live-tvg-df-03.video.globo.com/d/s/hls-bbb05/hls-bbb05_3539/playlist.m3u8
 
 #EXTINF:-1  group-title="GLOBOSAT" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/00/Logotipo_Big_Brother_Brasil_01-06.jpg/revision/latest?cb=20210419031425",Big Brother Brasil 2022 - CAM 8
-https://live-tvg-df-05.video.globo.com/d/s/hls-bbb09/playlist.m3u8?h=0411645665863170601463016455794631019505241pcwvKyU9wG2nOoPIpdQSAg&k=html5&a=F&u=BR~5a39963a-fa9b-4eb1-8612-de4c3358f6c7
+https://live-tvg-df-04.video.globo.com/d/s/hls-bbb04/hls-bbb04_3539/playlist.m3u8
 
 
 #EXTINF:-1  group-title="GLOBOSAT" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/00/Logotipo_Big_Brother_Brasil_01-06.jpg/revision/latest?cb=20210419031425",Big Brother Brasil 2022 - CAM 9
-https://live-tvg-df-06.video.globo.com/d/s/hls-bbb10/playlist.m3u8?h=0411645665887923868648616455794874703680647hnXvivPJosnVFrnyadfxtg&k=html5&a=F&u=BR~5a39963a-fa9b-4eb1-8612-de4c3358f6c7
+https://live-tvg-df-03.video.globo.com/d/s/hls-bbb03/hls-bbb03_3539/playlist.m3u8
 
 #EXTINF:-1  group-title="GLOBOSAT" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/00/Logotipo_Big_Brother_Brasil_01-06.jpg/revision/latest?cb=20210419031425",Big Brother Brasil 2022 - CAM 11
-https://live-tvg-df-02.video.globo.com/d/s/hls-bbb02/playlist.m3u8?h=0411645665917265271342916455795171091440852uKtVsTUrbnwlIdr-Li9CZg&k=html5&a=F&u=BR~5a39963a-fa9b-4eb1-8612-de4c3358f6c7
+https://live-tvg-df-05.video.globo.com/d/s/hls-bbb02/hls-bbb02_3539/playlist.m3u8
 
-#EXTINF:-1  group-title="GLOBOSAT" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/00/Logotipo_Big_Brother_Brasil_01-06.jpg/revision/latest?cb=20210419031425",Big Brother Brasil 2022 - CAM 10
-https://live-tvg-df-02.video.globo.com/d/s/hls-bbb05/playlist.m3u8?h=0411645665955564995196116455795557174236963tHiphqlFKsjS9JBMs0w91g&k=html5&a=F&u=BR~5a39963a-fa9b-4eb1-8612-de4c3358f6c7
 
-#EXTINF:-1  group-title="GLOBOSAT" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/00/Logotipo_Big_Brother_Brasil_01-06.jpg/revision/latest?cb=20210419031425",Big Brother Brasil 2022 - BATE PAPO
-https://live-tvg-df-04.video.globo.com/d/nl/s/hls-gplay8/playlist.m3u8?h=0411645673231872897521716455868311127887715a7yktaQ6x3efec9bv-QnwQ&k=html5&a=F&u=BR~5a39963a-fa9b-4eb1-8612-de4c3358f6c7
 
 
 
