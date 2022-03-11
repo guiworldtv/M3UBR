@@ -187,10 +187,10 @@ https://video-auth6.iol.pt/live_tvi_direct/live_tvi_direct/edge_servers/tvireali
 
 
 #EXTINF:-1  group-title="GLOBO'S" group-title="CANAIS ABERTOS" tvg-id="GLOBO USA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/ff/TV_Globo_2021_azul.png/revision/latest/scale-to-width-down/200?cb=20220201030422",Globo Internacional
-https://gcdn-live.video.globo.com/d/nl/s/hls-glbeua/playlist.m3u8?URLPrefix=aHR0cHM6Ly9nY2RuLWxpdmUudmlkZW8uZ2xvYm8uY29tL2Qvbmwvcy9obHMtZ2xiZXVh&Expires=1646701737&KeyName=key&Signature=LB87kdjrHhilI8Tdl8JigVCPlc0=
+https://gcdn-live.video.globo.com/d/nl/s/hls-glbeua/hls-glbeua_3539/playlist.m3u8?URLPrefix=aHR0cHM6Ly9nY2RuLWxpdmUudmlkZW8uZ2xvYm8uY29tL2Qvbmwvcy9obHMtZ2xiZXVhLw==&Expires=1647049823&KeyName=key&Signature=tpLsLrIv8sMceB3tvDTcEVr_p5o=
 
-#EXTINF:-1  group-title="GLOBO'S" group-title="CANAIS ABERTOS" tvg-id="GLOBO USA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/ff/TV_Globo_2021_azul.png/revision/latest/scale-to-width-down/200?cb=20220201030422",Globo Internacional 2
-https://gcdn-live.video.globo.com/d/nl/s/hls-glbeua/hls-glbeua_3539/playlist.m3u8?URLPrefix=aHR0cHM6Ly9nY2RuLWxpdmUudmlkZW8uZ2xvYm8uY29tL2Qvbmwvcy9obHMtZ2xiZXVhLw==&Expires=1646701746&KeyName=key&Signature=zrcJpBhuiCHwFAf-07BQ-9xQB3I=
+#EXTINF:-1  group-title="GLOBO'S" group-title="CANAIS ABERTOS" tvg-id="GLOBO USA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/ff/TV_Globo_2021_azul.png/revision/latest/scale-to-width-down/200?cb=20220201030422",Globo Internacional PT
+https://gcdn-live.video.globo.com/d/nl/s/hls-glbeua/hls-glbeua_3539/playlist.m3u8?URLPrefix=aHR0cHM6Ly9nY2RuLWxpdmUudmlkZW8uZ2xvYm8uY29tL2Qvbmwvcy9obHMtZ2xiZXVhLw==&Expires=1647049822&KeyName=key&Signature=vDRrfCDETYXD7JIcsXvyQyLZBHw=
 
 #EXTINF:-1  group-title="GLOBO'S" group-title="CANAIS ABERTOS" tvg-id="GLOBO GO" tvg-logo="https://s2.glbimg.com/VlRnnoTNxOuENA8W01qTOfDtv-8=/64x45/i.s3.glbimg.com/v1/AUTH_b58693ed41d04a39826739159bf600a0/internal_photos/bs/2018/H/I/hdEcj1Qd2Fq3e4LhMDrA/tv-anhanguera.png",TV Anhanguera Goiania
 https://live-tvg-df-05.video.globo.com/d/s/hls-globo-go01/playlist.m3u8?h=0401646965760148335076216468793601311581853zl4nK53NZhoB_2zk87KCfA&k=html5&a=F&u=5a39963a-fa9b-4eb1-8612-de4c3358f6c7
