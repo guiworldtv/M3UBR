@@ -14,7 +14,7 @@ sed -i "/live_tvi_internacional/ c https://video-auth6.iol.pt/live_tvi_internaci
 
 # Globo Internacional - update the stream URL of Globo Internacional
 
-sed -i "/d/nl/s/hls-glbeua/hls-glbeua_2359/ c https://gcdn-live.video.globo.com/d/nl/s/hls-glbeua/hls-glbeua_176/playlist.m3u8?URLPrefix=$(wget https://liveus-globo.myedgecast.com/d/nl/s/hls-glbeua/hls-glbeua_2359/playlist.m3u8?URLPrefix= -o /dev/null -O -)/" m3upt.m3u 
+sed -i "/d/nl/s/hls-glbeua/hls-glbeua_2359/ c https://gcdn-live.video.globo.com/d/nl/s/hls-glbeua/hls-glbeua_3539/playlist.m3u8?URLPrefix=$(wget https://liveus-globo.myedgecast.com/d/nl/s/hls-glbeua/hls-glbeua_2359/playlist.m3u8?URLPrefix= -o /dev/null -O -)/" m3upt.m3u 
 
 
 # TV Anhanguera Goiania - update the stream URL of TV Anhanguera Goiania
