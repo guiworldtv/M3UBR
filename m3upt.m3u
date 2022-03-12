@@ -230,14 +230,15 @@ https://video-auth6.iol.pt/live_tvi_direct/live_tvi_direct/edge_servers/tvireali
 
 
 
-#EXTINF:-1  group-title="GLOBO'S" group-title="CANAIS ABERTOS" tvg-id="GLOBO USA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/ff/TV_Globo_2021_azul.png/revision/latest/scale-to-width-down/200?cb=20220201030422",Globo Internacional
-https://gcdn-live.video.globo.com/d/nl/s/hls-glbeua/hls-glbeua_3539/playlist.m3u8?URLPrefix=aHR0cHM6Ly9nY2RuLWxpdmUudmlkZW8uZ2xvYm8uY29tL2Qvbmwvcy9obHMtZ2xiZXVhLw==&Expires=1647049823&KeyName=key&Signature=tpLsLrIv8sMceB3tvDTcEVr_p5o=
+#EXTINF:-1  group-title="GLOBO'S" group-title="CANAIS ABERTOS" tvg-id="GLOBO USA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/ff/TV_Globo_2021_azul.png/revision/latest/scale-to-width-down/200?cb=20220201030422",Globo são paulo
+https://live-as-04-12.video.globo.com/h/0401647145620551352085716470592201003007202_I4eQdtDtJHBxr5SN6nWUg/k/html5/a/F/u/5a39963a-fa9b-4eb1-8612-de4c3358f6c7/nu/globo-sp1/playlist.m3u8?originpath=/linear/hls/pa/event/j52A06X8QNmVGoucjoMbcw/stream/ec696091-227c-4d4c-a1f9-d1e2b51cea66:SCL/master.m3u8
 
-#EXTINF:-1  group-title="GLOBO'S" group-title="CANAIS ABERTOS" tvg-id="GLOBO USA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/ff/TV_Globo_2021_azul.png/revision/latest/scale-to-width-down/200?cb=20220201030422",Globo Internacional Portugal
-https://gcdn-live.video.globo.com/d/nl/s/hls-glbpt/hls-glbpt_3539/playlist.m3u8?URLPrefix=aHR0cHM6Ly9nY2RuLWxpdmUudmlkZW8uZ2xvYm8uY29tL2Qvbmwvcy9obHMtZ2xicHQv&Expires=1647045395&KeyName=key&Signature=fZwjuoHLAO9JMxP3JBzM_sggEag=
+#EXTINF:-1  group-title="GLOBO'S" group-title="CANAIS ABERTOS" tvg-id="GLOBO USA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/ff/TV_Globo_2021_azul.png/revision/latest/scale-to-width-down/200?cb=20220201030422",Globo são paulo 2
+https://live-as-04-12.video.globo.com/h/0401647145620551352085716470592201003007202_I4eQdtDtJHBxr5SN6nWUg/k/html5/a/F/u/5a39963a-fa9b-4eb1-8612-de4c3358f6c7/nu/globo-sp1/playlist.m3u8?originpath=/linear/hls/pa/event/j52A06X8QNmVGoucjoMbcw/stream/ec696091-227c-4d4c-a1f9-d1e2b51cea66:SCL/variant/1ff04bad3154e0d5770836fe3a0348b0/bandwidth/4127000.m3u8
+
 
 #EXTINF:-1  group-title="GLOBO'S" group-title="CANAIS ABERTOS" tvg-id="GLOBO GO" tvg-logo="https://s2.glbimg.com/VlRnnoTNxOuENA8W01qTOfDtv-8=/64x45/i.s3.glbimg.com/v1/AUTH_b58693ed41d04a39826739159bf600a0/internal_photos/bs/2018/H/I/hdEcj1Qd2Fq3e4LhMDrA/tv-anhanguera.png",TV Anhanguera Goiania
-https://live-tvg-df-05.video.globo.com/d/s/hls-globo-go01/playlist.m3u8?h=0401646965760148335076216468793601311581853zl4nK53NZhoB_2zk87KCfA&k=html5&a=F&u=5a39963a-fa9b-4eb1-8612-de4c3358f6c7
+https://live-as-11-36.video.globo.com/d/s/hls-globo-go01/playlist.m3u8?h=0401647146648108594300016470602489708560252r1g1I5-TqsS4loxjDw48sw&k=html5&a=F&u=5a39963a-fa9b-4eb1-8612-de4c3358f6c7
 
 #EXTINF:-1  group-title="GLOBOSAT" tvg-logo="https://s2.glbimg.com/2hf9vm2jfD4juRkjDtov4bXJof8=/285x285/https://s2.glbimg.com/SV1JdXeVT4mJ4Eop2h1pJ0lEQSQ=/filters:fill(transparent,false)/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2020/O/n/nslsdxRamJvQ2LydUB7A/globonews.png" url-epg="http://especial1.g1.globo.com/globo-news/index.php" group-title="NEWS WORLD", GloboNews
 https://live-tvg-df-05.video.globo.com/nu/gnews24ha/playlist.m3u8?h=0401646275287162103362216461888871841183494j5MnCQV6VpO0mEVqjQJmRg&k=html5&a=A
