@@ -914,6 +914,31 @@ http://95.67.47.114/hls/hdfashion_ua_hi/index.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://wfcint.mediacdn.ru/cdn/wfcintweb/playlist.m3u8
 
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fashion TV Czech&slovak" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/1200px-Fashion_TV_logo.svg.png" group-title="Documentary",Fashion TV Czech&slovak
+http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fashion TV England" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/1200px-Fashion_TV_logo.svg.png" group-title="Documentary",Fashion TV England
+https://fashiontv-fashiontv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fashion TV Europe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/1200px-Fashion_TV_logo.svg.png" group-title="Documentary",Fashion TV Europe
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b900000_t64MzYwcA==.m3u8 
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Travel Mix 4K" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/Travel_Mix_4K_%282020%29.png/revision/latest/scale-to-width-down/250?cb=20210418050436" group-title="Documentary",Travel Mix 4K
+http://103.145.13.15:25461/live/promo/promo/5.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fashion TV Italy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/1200px-Fashion_TV_logo.svg.png" group-title="Documentary",Fashion TV Italy
+https://fashiontv-fashiontv-3-it.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fashion TV Mumbai" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/1200px-Fashion_TV_logo.svg.png" group-title="Documentary",Fashion TV Mumbai
+https://fash2043.cloudycdn.services/slive/ftv_ftv_pg13_gmt_ess_43126_default_1262_hls.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fashion TV Paris" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/1200px-Fashion_TV_logo.svg.png" group-title="Documentary",Fashion TV Paris
+http://fash1043.cloudycdn.services/slive/ftv_paris_adaptive.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fashion TV PG13" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/1200px-Fashion_TV_logo.svg.png" group-title="Documentary",Fashion TV PG13
+https://fash1043.cloudycdn.services/slive/ftv_pg13_adaptive.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fashion TV PG16" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/1200px-Fashion_TV_logo.svg.png" group-title="Documentary",Fashion TV PG16
+http://fash1043.cloudycdn.services/slive/ftv_pg16_adaptive.smil/media.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fashion TV Singapore" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/1200px-Fashion_TV_logo.svg.png" group-title="Documentary",Fashion TV Singapore
+https://fash2043.cloudycdn.services/slive/ftv_ftv_asia_ada_xiv_42149_default_137_hls.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fashion TV Spain" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/1200px-Fashion_TV_logo.svg.png" group-title="Documentary",Fashion TV Spain
+https://fashiontv-fashiontv-2-es.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fashion TV Tokyo (PG13) " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/1200px-Fashion_TV_logo.svg.png" group-title="Documentary",Fashion TV Tokyo (PG13) 
+https://fash1043.cloudycdn.services/slive/ftv_ftv_pg13_zw9_27065_ftv_pg13_196_hls.smil/playlist.m3u8
+
 #EXTINF:-1 group-title="TV" tvg-id="Gong TV" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/GONG.png",GONG
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
