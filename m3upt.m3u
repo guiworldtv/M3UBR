@@ -42,7 +42,14 @@ http://46.4.119.218:8880/play/a039
 #EXTINF:-1 tvg-id=",SIC Radical
 http://46.4.119.218:8880/play/a02x
 
+#EXTINF:-1 tvg-id="SIC" group-title="ᵖᵒʳᵗᵘᵍᵃˡ" tvg-logo="https://www.nos.pt/particulares/televisao/canais/PublishingImages/ADVNCE/logo.png",🇵🇹⭐ ➾ SIC Advanceᴴᴰ [test] 
+https://bit.ly/36usb5W?/playlist.m3u8
 
+#EXTINF:-1 tvg-id="sicn.pt" group-title="ᵖᵒʳᵗᵘᵍᵃˡ" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b7/SICNoticias2011.png",🇵🇹 ➾ SIC Noticiasᴴᴰ
+http://breakingcable.xyz:80/S7nSey5UX/8746100042/284626
+
+#EXTINF:-1 tvg-id="" tvg-id="RTP 1" tvg-logo="https://arena.rtp.pt/wp-content/uploads/2019/02/cropped-512x512-192x192.png" group-title="ᵖᵒʳᵗᵘᵍᵃˡ",🇵🇹⭐ ➾ RTP Arena [test]
+https://bit.ly/3u01M9y?/chunklist_b1290000_slpor.m3u8
 
 #EXTINF:-1 group-title= "PORTUGAL" tvg-id="rtp1hd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP1.png",RTP 1
 #KODIPROP:inputstream=inputstream.adaptive
