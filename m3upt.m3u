@@ -242,79 +242,8 @@ https://video-auth6.iol.pt/live_tvi_direct/live_tvi_direct/edge_servers/tvireali
 
 
 
-#EXTINF:-1  group-title="GLOBO'S" group-title="CANAIS ABERTOS" tvg-id="GLOBO USA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/ff/TV_Globo_2021_azul.png/revision/latest/scale-to-width-down/200?cb=20220201030422",Globo são paulo
-https://live-as-04-12.video.globo.com/h/0401647145620551352085716470592201003007202_I4eQdtDtJHBxr5SN6nWUg/k/html5/a/F/u/5a39963a-fa9b-4eb1-8612-de4c3358f6c7/nu/globo-sp1/playlist.m3u8?originpath=/linear/hls/pa/event/j52A06X8QNmVGoucjoMbcw/stream/ec696091-227c-4d4c-a1f9-d1e2b51cea66:SCL/master.m3u8
-
-#EXTINF:-1  group-title="GLOBO'S" group-title="CANAIS ABERTOS" tvg-id="GLOBO USA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/ff/TV_Globo_2021_azul.png/revision/latest/scale-to-width-down/200?cb=20220201030422",Globo são paulo 2
-https://live-as-04-12.video.globo.com/h/0401647145620551352085716470592201003007202_I4eQdtDtJHBxr5SN6nWUg/k/html5/a/F/u/5a39963a-fa9b-4eb1-8612-de4c3358f6c7/nu/globo-sp1/playlist.m3u8?originpath=/linear/hls/pa/event/j52A06X8QNmVGoucjoMbcw/stream/ec696091-227c-4d4c-a1f9-d1e2b51cea66:SCL/variant/1ff04bad3154e0d5770836fe3a0348b0/bandwidth/4127000.m3u8
 
 
-#EXTINF:-1  group-title="GLOBO'S" group-title="CANAIS ABERTOS" tvg-id="GLOBO GO" tvg-logo="https://s2.glbimg.com/VlRnnoTNxOuENA8W01qTOfDtv-8=/64x45/i.s3.glbimg.com/v1/AUTH_b58693ed41d04a39826739159bf600a0/internal_photos/bs/2018/H/I/hdEcj1Qd2Fq3e4LhMDrA/tv-anhanguera.png",TV Anhanguera Goiania
-https://live-as-11-36.video.globo.com/d/s/hls-globo-go01/playlist.m3u8?h=0401647146648108594300016470602489708560252r1g1I5-TqsS4loxjDw48sw&k=html5&a=F&u=5a39963a-fa9b-4eb1-8612-de4c3358f6c7
-
-#EXTINF:-1  group-title="GLOBOSAT" tvg-logo="https://s2.glbimg.com/2hf9vm2jfD4juRkjDtov4bXJof8=/285x285/https://s2.glbimg.com/SV1JdXeVT4mJ4Eop2h1pJ0lEQSQ=/filters:fill(transparent,false)/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2020/O/n/nslsdxRamJvQ2LydUB7A/globonews.png" url-epg="http://especial1.g1.globo.com/globo-news/index.php" group-title="NEWS WORLD", GloboNews
-https://live-tvg-df-05.video.globo.com/nu/gnews24ha/playlist.m3u8?h=0401646275287162103362216461888871841183494j5MnCQV6VpO0mEVqjQJmRg&k=html5&a=A
-#EXTINF:-1  group-title="GLOBOSAT" tvg-logo="https://s2.glbimg.com/YzjxL0liA-mi3aVbCptgojXuLX8=/285x285/https://s2.glbimg.com/zCZGoshGFCb0MQZt3MMV7JeWSZQ=/filters:fill(transparent,false)/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2020/T/R/Z2rgeLRvS0ptiXCTc30A/viva.png" , Viva
-https://live-tvg-df-01.video.globo.com/h/0411647017838183637030216469314385321246296ji5-L4ug1WzMmrfC_Jvp4w/k/html5/a/F/u/BR~5a39963a-fa9b-4eb1-8612-de4c3358f6c7/nu/viva24ha/viva24ha-audio_1=96000-video=3442944.m3u8
-#EXTINF:-1  group-title="GLOBOSAT" tvg-logo="https://s2.glbimg.com/YzjxL0liA-mi3aVbCptgojXuLX8=/285x285/https://s2.glbimg.com/zCZGoshGFCb0MQZt3MMV7JeWSZQ=/filters:fill(transparent,false)/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2020/T/R/Z2rgeLRvS0ptiXCTc30A/viva.png" , Viva2
-https://live-tvg-df-01.video.globo.com/h/0411647017838183637030216469314385321246296ji5-L4ug1WzMmrfC_Jvp4w/k/html5/a/F/u/BR~5a39963a-fa9b-4eb1-8612-de4c3358f6c7/nu/viva24ha/playlist.m3u8
-
-#EXTINF:-1  group-title="GLOBOSAT" tvg-logo="https://s2.glbimg.com/35L755MBQhy9WbnJOdzIZcKIkbE=/285x285/https://s2.glbimg.com/TZQ6gSg1wLoy7S-Ei44fAfgcEeo=/filters:fill(transparent,false)/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2020/8/s/ahzcQqSMyCbetR0rp66A/multishow.png", Multishow
-https://live-tvg-df-06.video.globo.com/h/0411645664580620181020216455781801693213314McU8NhpzainxpH2jAr87ww/k/html5/a/F/u/BR~5a39963a-fa9b-4eb1-8612-de4c3358f6c7/nu/msw24ha/playlist.m3u8
-
-#EXTINF:-1  group-title="GLOBOSAT" tvg-logo="https://s2.glbimg.com/RvR-AlqdWKWP2zH5S_8E6wJwgI0=/285x285/https://s2.glbimg.com/8upYLFDoGWLlyAvY_YoN2mL0ig8=/filters:fill(transparent,false)/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2020/A/7/7Fp2YdQlqq3UAUAJpU3g/logo-canal-brasil-03.png", Canal Brasil
-https://live-tvg-df-04.video.globo.com/d/s/hls-bra24ha/playlist.m3u8?h=0401645665382131331152616455789821102899277uFtwOfbVR8R9l70himKrHA&k=html5&a=F&u=5a39963a-fa9b-4eb1-8612-de4c3358f6c7
-
-#EXTINF:-1  group-title="GLOBOSAT" tvg-logo="https://s2.glbimg.com/B5yuiZ_q7Isp81_Ucm6WCGlts00=/285x285/https://s2.glbimg.com/ywvOXhKovSogEXcoRVee9mWPZTU=/filters:fill(transparent,false)/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2021/F/y/EIs9ftSXKmqYMbhXTrkw/logo-de-transmissao-sportv-a1.png", SporTV
-https://live-tvg-df-03.video.globo.com/h/0411645664944165355603416455785444380843215vNrqFJG2WKH92CEdkc7egA/k/html5/a/F/u/BR~5a39963a-fa9b-4eb1-8612-de4c3358f6c7/nu/spo124ha/playlist.m3u8
-
-#EXTINF:-1  group-title="GLOBOSAT" tvg-logo="https://s2.glbimg.com/TbYUhYmsF4kbYtzCV25mrnbkB6A=/285x285/https://s2.glbimg.com/7tK_ay3ZJhL-39I_x12yRQjYA0g=/filters:fill(transparent,false)/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2022/w/N/ClVi63QNyidsJc4RZpxw/bug-sportv2-branco-olinv22-vod.png",  SporTV 2
-https://live-tvg-df-01.video.globo.com/d/s/hls-spo224ha/playlist.m3u8?h=0411645665037118749578816455786375565514928Sh7gbjfsGx9RainNUjlBfw&k=html5&a=F&u=BR~5a39963a-fa9b-4eb1-8612-de4c3358f6c7
-#EXTINF:-1  group-title="GLOBOSAT" tvg-logo="https://s2.glbimg.com/9nPVfXgBPUm1GFfQEM0SPxk43Ro=/285x285/https://s2.glbimg.com/srvCTnIbpAJzJ0o3HSoCmdE_EPM=/filters:fill(transparent,false)/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2021/9/B/JnrwKrR3uUE3xADMB6NA/logo-de-transmissao-sportv3-a1.png",  SporTV 3
-https://live-tvg-df-01.video.globo.com/d/s/hls-spo324ha/playlist.m3u8?h=0411645665128127046730716455787281535350124aoOg6Dj9XbEtVXuoJeW13g&k=html5&a=F&u=BR~5a39963a-fa9b-4eb1-8612-de4c3358f6c7
-#EXTINF:-1  group-title="GLOBOSAT" tvg-logo="LOGOTIPO" url-epg=""http://ancine.grade.globosat.tv/gnt.html", GNT
-https://live-tvg-df-02.video.globo.com/d/s/hls-gnt24ha/playlist.m3u8?h=0411645665177109680139716455787771655031614omZ1KXXfOH8zChNlgC2YbA&k=html5&a=F&u=BR~5a39963a-fa9b-4eb1-8612-de4c3358f6c7
-#EXTINF:-1  group-title="GLOBOSAT" tvg-logo="https://s2.glbimg.com/1GueZc54C_UDyU4oJrNtpBdEGQ0=/285x285/https://s2.glbimg.com/tytz0QyOre3D-2vyQ6rsUBQoJ9k=/filters:fill(transparent,false)/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2020/K/G/oSToHqS02AR7LvfQUobQ/gloob.png", Gloob
-https://live-tvg-df-05.video.globo.com/d/s/hls-gloob24ha/playlist.m3u8?h=0411645665277118995977016455788779940464695etZjGeYGxyYB47thpuy_PA&k=html5&a=F&u=BR~5a39963a-fa9b-4eb1-8612-de4c3358f6c7
-#EXTINF:-1  group-title="GLOBOSAT" tvg-logo="https://s2.glbimg.com/uF5-9ufxcWnqmmwGTCtF4jGYysE=/285x285/https://s2.glbimg.com/s0yF4XeAFUQpGtHC1_y6K75t62M=/filters:fill(transparent,false)/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2020/J/0/d75t6WRVayG0gMFW4VZw/gloobinho.png", Gloobinho
-https://live-tvg-df-04.video.globo.com/d/s/hls-gloobinho24ha/playlist.m3u8?h=04116456653228361236730164557892270160097147sUUQ5nXaPFX1BCTg5D4SA&k=html5&a=F&u=BR~5a39963a-fa9b-4eb1-8612-de4c3358f6c7
-#EXTINF:-1  group-title="GLOBOSAT" tvg-logo="https://s2.glbimg.com/MmCE4ptI730wr9YJmM2QjiA7KQY=/285x285/https://s2.glbimg.com/bn09N2rN8LXRgNFBRYXHDvHcIss=/filters:fill(transparent,false)/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2022/B/l/qwR5RjR9GDh2WfdAERhw/logo-transparente-modo-viagem-700x700.png", Modo Viagem
-https://live-tvg-df-05.video.globo.com/d/s/hls-maisgsat24ha/playlist.m3u8?h=0411645674148820276464316455877481112793020G1bJXFW3qMQKN4mnYfAs4g&k=html5&a=F&u=BR~5a39963a-fa9b-4eb1-8612-de4c3358f6c7
-*****MEUS CANAIS BIG BROTHER****
-
-#EXTINF:-1  group-title="GLOBOSAT" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/00/Logotipo_Big_Brother_Brasil_01-06.jpg/revision/latest?cb=20210419031425", Big Brother Brasil 2022 - CAM 1
-https://live-tvg-df-05.video.globo.com/d/nl/s/hls-bbb01cg/hls-bbb01cg_2359/playlist.m3u8
-
-
-
-#EXTINF:-1  group-title="GLOBOSAT" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/00/Logotipo_Big_Brother_Brasil_01-06.jpg/revision/latest?cb=20210419031425", Big Brother Brasil 2022 - CAM 2
-https://live-tvg-df-03.video.globo.com/d/s/hls-bbb11/hls-bbb11_3539/playlist.m3u8
-
-
-#EXTINF:-1  group-title="GLOBOSAT" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/00/Logotipo_Big_Brother_Brasil_01-06.jpg/revision/latest?cb=20210419031425",Big Brother Brasil 2022 - CAM 3
-https://live-tvg-df-04.video.globo.com/d/s/hls-bbb10/hls-bbb10_3539/playlist.m3u8
-
-#EXTINF:-1  group-title="GLOBOSAT" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/00/Logotipo_Big_Brother_Brasil_01-06.jpg/revision/latest?cb=20210419031425",Big Brother Brasil 2022 - CAM 4
-https://live-tvg-df-05.video.globo.com/d/s/hls-bbb09/hls-bbb09_3539/playlist.m3u8
-
-#EXTINF:-1  group-title="GLOBOSAT" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/00/Logotipo_Big_Brother_Brasil_01-06.jpg/revision/latest?cb=20210419031425",Big Brother Brasil 2022 - CAM 5
-https://live-tvg-df-02.video.globo.com/d/s/hls-bbb08/hls-bbb08_3539/playlist.m3u8
-
-#EXTINF:-1  group-title="GLOBOSAT" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/00/Logotipo_Big_Brother_Brasil_01-06.jpg/revision/latest?cb=20210419031425",Big Brother Brasil 2022 - CAM 6
-https://live-tvg-df-06.video.globo.com/d/s/hls-bbb07/hls-bbb07_3539/playlist.m3u8
-
-#EXTINF:-1  group-title="GLOBOSAT" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/00/Logotipo_Big_Brother_Brasil_01-06.jpg/revision/latest?cb=20210419031425",Big Brother Brasil 2022 - CAM 7
-https://live-tvg-df-03.video.globo.com/d/s/hls-bbb05/hls-bbb05_3539/playlist.m3u8
-
-#EXTINF:-1  group-title="GLOBOSAT" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/00/Logotipo_Big_Brother_Brasil_01-06.jpg/revision/latest?cb=20210419031425",Big Brother Brasil 2022 - CAM 8
-https://live-tvg-df-04.video.globo.com/d/s/hls-bbb04/hls-bbb04_3539/playlist.m3u8
-
-
-#EXTINF:-1  group-title="GLOBOSAT" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/00/Logotipo_Big_Brother_Brasil_01-06.jpg/revision/latest?cb=20210419031425",Big Brother Brasil 2022 - CAM 9
-https://live-tvg-df-03.video.globo.com/d/s/hls-bbb03/hls-bbb03_3539/playlist.m3u8
-
-#EXTINF:-1  group-title="GLOBOSAT" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/00/Logotipo_Big_Brother_Brasil_01-06.jpg/revision/latest?cb=20210419031425",Big Brother Brasil 2022 - CAM 11
-https://live-tvg-df-05.video.globo.com/d/s/hls-bbb02/hls-bbb02_3539/playlist.m3u8
 
 
 
@@ -433,16 +362,10 @@ https://rakuten-euronews-5-de.samsung.wurl.com/manifest/playlist.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="TELESUR.meo.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Telesur.png",teleSUR (Kodi)
-plugin://plugin.video.youtube/play/?video_id=6EIZBCYpAlQ
-
 #EXTINF:-1 group-title="TV" tvg-id="TELESUR.meo.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Telesur.png",teleSUR English
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://cdnenmain.telesur.ultrabase.net/mblivev3/hd/playlist.m3u8
-
-#EXTINF:-1 group-title="TV" tvg-id="TELESUR.meo.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Telesur.png",teleSUR English (Kodi)
-plugin://plugin.video.youtube/play/?video_id=5lAI3FI0bK0
 
 #EXTINF:-1 group-title="TV" tvg-id="HispanTV" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/HispanTV.png",HispanTV
 #KODIPROP:inputstream=inputstream.adaptive
@@ -584,9 +507,6 @@ https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="NASA TV Media" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/NASA.png",NASA TV Media (Kodi)
-plugin://plugin.video.youtube/play/?video_id=nA9UZF-SZoQ
-
 #EXTINF:-1 group-title="TV" tvg-id="BLOOM.meo.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Bloomberg.png",Bloomberg TV Europe
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
@@ -654,7 +574,10 @@ https://amg01573-7nn-7nnono-ono-pcdj3.amagi.tv/playlist.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://rtvelivestreamv3.akamaized.net/24h/24h_main.m3u8
 
-
+#EXTINF:-1 group-title="TV" tvg-id="tve24.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVE-24h.png",TVE 24h Canarias
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://ztnr.rtve.es/ztnr/5473142.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="LA 1" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/La1.png",La 1
 #KODIPROP:inputstream=inputstream.adaptive
