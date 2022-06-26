@@ -5,12 +5,91 @@
 # 📺 TV channels
 
 
+#EXTINF:-1,Globo
+http://45.92.69.77:8000/play/a021/index.m3u8
+#EXTINF:-1,Globo HD
+http://45.92.69.77:8000/play/a07t/index.m3u8
+#EXTINF:-1,Globo Now HD
+http://45.92.69.77:8000/play/a005/index.m3u8
+#EXTINF:-1,TV Record
+http://45.92.69.77:8000/play/a01w/index.m3u8
+#EXTINF:-1,TV Record HD
+http://45.92.69.77:8000/play/a010/index.m3u8
+#EXTINF:-1,MTV Live
+http://45.92.69.77:8000/play/a01e/index.m3u8
+#EXTINF:-1,MTV Live HD
+http://45.92.69.77:8000/play/a014/index.m3u8
+#EXTINF:-1,MTV Portugal HD
+http://45.92.69.77:8000/play/a058/index.m3u8
+#EXTINF:-1,TPA Internacional
+http://45.92.69.77:8000/play/a0a2/index.m3u8
+#EXTINF:-1,TV Galicia
+http://45.92.69.77:8000/play/a01y/index.m3u8
 
-
-
-
+#EXTINF:-1,ZAP Viva HD
+http://45.92.69.77:8000/play/a019/index.m3u8
+#EXTINF:-1,Sport TV 1
+http://45.92.69.77:8000/play/a05w/index.m3u8
+#EXTINF:-1,Sport TV 2
+http://45.92.69.77:8000/play/a05o/index.m3u8
+#EXTINF:-1,Sport TV 3
+http://45.92.69.77:8000/play/a05p/index.m3u8
+#EXTINF:-1,Sport TV 4
+http://45.92.69.77:8000/play/a05q/index.m3u8
+#EXTINF:-1,Sport TV 5
+http://45.92.69.77:8000/play/a05r/index.m3u8
+#EXTINF:-1,Sport TV NBA
+http://45.92.69.77:8000/play/a05h/index.m3u8
+#EXTINF:-1,CMTV
+http://45.92.69.77:8000/play/a0fa/index.m3u8
+#EXTINF:-1,CMTV HD
+http://45.92.69.77:8000/play/a085/index.m3u8
+#EXTINF:-1,CNBC
+http://45.92.69.77:8000/play/a01u/index.m3u8
+#EXTINF:-1,CNN
+http://45.92.69.77:8000/play/a01o/index.m3u8
+#EXTINF:-1,ADVNCE sic
+http://45.92.69.77:8000/play/a06d/index.m3u8
 #EXTINF:-1 tvg-id="sicn.pt" group-title="ᵖᵒʳᵗᵘᵍᵃˡ" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b7/SICNoticias2011.png",🇵🇹 ➾ SIC Noticiasᴴᴰ
 http://breakingcable.xyz:80/S7nSey5UX/8746100042/284626
+#EXTINF:-1,RTP 1
+http://45.92.69.77:8000/play/a00t/index.m3u8
+#EXTINF:-1,RTP 1 HD
+http://45.92.69.77:8000/play/a081/index.m3u8
+#EXTINF:-1,RTP 2
+http://45.92.69.77:8000/play/a00u/index.m3u8
+#EXTINF:-1,RTP 2 HD
+http://45.92.69.77:8000/play/a086/index.m3u8
+#EXTINF:-1,RTP 3
+http://45.92.69.77:8000/play/a088/index.m3u8
+#EXTINF:-1,RTP 3
+http://45.92.69.77:8000/play/a00q/index.m3u8
+#EXTINF:-1,RTP Arena
+http://45.92.69.77:8000/play/a05l/index.m3u8
+#EXTINF:-1,RTP AÃ§ores
+http://45.92.69.77:8000/play/a0ff/index.m3u8
+#EXTINF:-1,RTP Madeira
+http://45.92.69.77:8000/play/a0f9/index.m3u8
+#EXTINF:-1,RTP MemÃ³ria
+http://45.92.69.77:8000/play/a00r/index.m3u8
+#EXTINF:-1,RTP África
+http://45.92.69.77:8000/play/a01v/index.m3u8
+#EXTINF:-1,S+ HD
+http://45.92.69.77:8000/play/a002/index.m3u8
+#EXTINF:-1,SIC Caras
+http://45.92.69.77:8000/play/a02o/index.m3u8
+#EXTINF:-1,SIC Caras HD
+http://45.92.69.77:8000/play/a00z/index.m3u8
+#EXTINF:-1,SIC Mulher
+http://45.92.69.77:8000/play/a01k/index.m3u8
+#EXTINF:-1,SIC Mulher HD
+http://45.92.69.77:8000/play/a07m/index.m3u8
+#EXTINF:-1,SIC Notícias
+http://45.92.69.77:8000/play/a00s/index.m3u8
+#EXTINF:-1,SIC Notícias HD
+http://45.92.69.77:8000/play/a084/index.m3u8
+#EXTINF:-1,SIC Radical HD
+http://45.92.69.77:8000/play/a07u/index.m3u8
 
 #EXTINF:-1 group-title= "PORTUGAL" tvg-id="rtp1hd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP1.png",RTP 1
 #KODIPROP:inputstream=inputstream.adaptive
@@ -239,6 +318,21 @@ https://bit.ly/3gejKxf?720p/playlist.m3u8
 https://video-auth2.iol.pt/live_tvi_direct/live_tvi_direct/edge_servers/tvireality-480p/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title= "Portugal" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/TVI%20Reality.png",🇵🇹 ●| TVI Reality  ѕᴅ
 https://video-auth6.iol.pt/live_tvi_direct/live_tvi_direct/edge_servers/tvireality-480p/chunks.m3u8?inspiration.m3u8
+
+#EXTINF:-1 group-title= "PORTUGAL" tvg-id="TVIR.meo.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI-Reality.png",TVI Reality
+http://45.92.69.77:8000/play/a01g/index.m3u8
+#EXTINF:-1 group-title= "PORTUGAL" tvg-id="TVIR.meo.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI-Reality.png",TVI Reality - Câmera 1
+http://45.92.69.77:8000/play/a026/index.m3u8
+#EXTINF:-1 group-title= "PORTUGAL" tvg-id="TVIR.meo.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI-Reality.png",TVI Reality - Câmera 2
+http://45.92.69.77:8000/play/a027/index.m3u8
+#EXTINF:-1 group-title= "PORTUGAL" tvg-id="TVIR.meo.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI-Reality.png",TVI Reality - Câmera 3
+http://45.92.69.77:8000/play/a028/index.m3u8
+#EXTINF:-1 group-title= "PORTUGAL" tvg-id="TVIR.meo.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI-Reality.png",TVI Reality - Câmera 4
+http://45.92.69.77:8000/play/a02a/index.m3u8
+#EXTINF:-1 group-title= "PORTUGAL" tvg-id="TVIR.meo.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI-Reality.png",TVI Reality - Mosaico
+http://45.92.69.77:8000/play/a029/index.m3u8
+#EXTINF:-1 group-title= "PORTUGAL" tvg-id="TVIR.meo.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI-Reality.png",TVI Reality HD
+http://45.92.69.77:8000/play/a04h/index.m3u8
 
 
 
