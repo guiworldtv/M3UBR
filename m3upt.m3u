@@ -7,24 +7,44 @@
 
 #EXTINF:-1,Globo
 http://45.92.69.77:8000/play/a021/index.m3u8
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTINF:-1,Globo HD
 http://45.92.69.77:8000/play/a07t/index.m3u8
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTINF:-1,Globo Now HD
 http://45.92.69.77:8000/play/a005/index.m3u8
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTINF:-1,TV Record
 http://45.92.69.77:8000/play/a01w/index.m3u8
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTINF:-1,TV Record HD
 http://45.92.69.77:8000/play/a010/index.m3u8
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTINF:-1,MTV Live
 http://45.92.69.77:8000/play/a01e/index.m3u8
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTINF:-1,MTV Live HD
 http://45.92.69.77:8000/play/a014/index.m3u8
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTINF:-1,MTV Portugal HD
 http://45.92.69.77:8000/play/a058/index.m3u8
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTINF:-1,TPA Internacional
 http://45.92.69.77:8000/play/a0a2/index.m3u8
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTINF:-1,TV Galicia
 http://45.92.69.77:8000/play/a01y/index.m3u8
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
 
 #EXTINF:-1,ZAP Viva HD
 http://45.92.69.77:8000/play/a019/index.m3u8
