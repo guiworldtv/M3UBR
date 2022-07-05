@@ -170,7 +170,7 @@ https://bit.ly/sicportugal?/3000k.m3u8
 #EXTINF:-1 group-title= "PORTUGAL" tvg-id="tvihd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI.png",TVI
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny81LzIwMjIgODoyMzo0NiBBTSZoYXNoX3ZhbHVlPUhiOFpWM2twanJMblBVT1E0cUxvYVE9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD1kMWQxMTgzZC1kMzEzLTRlZGYtYWU5Ni03MTY5MmE4ZDc5MTM=/
+https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny81LzIwMjIgOToxODoyMiBBTSZoYXNoX3ZhbHVlPWRxa2x0d2pmQW53M3V0aGRGY3V3UHc9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD0wYWUzYjkxNy03OWMwLTQ0ZTMtYWQ3Zi1kNzRlMjc1NWI5MzY=/
 
 #EXTINF:-1 group-title= "PORTUGAL" tvg-id="tvihd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI.png",TVI 2
 #KODIPROP:inputstream=inputstream.adaptive
@@ -217,10 +217,10 @@ https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 group-title= "PORTUGAL" group-title="CNN's" tvg-id="cnnpthd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CNN-Portugal.png",CNN Portugal
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny81LzIwMjIgODoyMzo0NiBBTSZoYXNoX3ZhbHVlPVJVNFl2N2kzTW1uREcrM1hvSyszSkE9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD0wZWRiYzA4MC0yMWRlLTRiN2ItYjljNS1lNzY5MDY4YzIwMjU=/
+https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny81LzIwMjIgOToxODoyMyBBTSZoYXNoX3ZhbHVlPVZGZjAzTXdlUGttOGZjbHVJcjkzV3c9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD1hMTJkNTI5ZC1mZjg0LTRkOTktYThlZS0yZWRlMjEzMTUwMTU=/
 
 #EXTINF:-1 group-title= "PORTUGAL" group-title="CNN's" group-title="NEWS WORLD" tvg-id="cnnpthd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CNN-Portugal.png",CNN Portugal 2
-https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny81LzIwMjIgODoyMzo0NiBBTSZoYXNoX3ZhbHVlPVJVNFl2N2kzTW1uREcrM1hvSyszSkE9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD0wZWRiYzA4MC0yMWRlLTRiN2ItYjljNS1lNzY5MDY4YzIwMjU=/
+https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny81LzIwMjIgOToxODoyMyBBTSZoYXNoX3ZhbHVlPVZGZjAzTXdlUGttOGZjbHVJcjkzV3c9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD1hMTJkNTI5ZC1mZjg0LTRkOTktYThlZS0yZWRlMjEzMTUwMTU=/
 
 #EXTINF:-1 tvg-id="" group-title="CNN's" tvg-logo="https://www.cnnbrasil.com.br/wp-content/themes/cnnbrasil/assets/favicon/apple-touch-icon.png",🇧🇷 ●| CNN Brasilᴴᴰ
 https://bit.ly/cnnBrasil?/chunks.m3u8
@@ -340,7 +340,7 @@ https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8|user-age
 #EXTINF:-1 group-title= "PORTUGAL" tvg-id="TVIInt.pt" tvg-logo="https://github.com/LITUATUI/M3UPT/raw/main/logos/TVI-Internacional.png",TVI Internacional
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny81LzIwMjIgODoyMzo0NyBBTSZoYXNoX3ZhbHVlPVRaSmpCKzN1Mm9LUVAwUU1QVkZsY0E9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD1hYmU0MmQwYy01MGNlLTQ4YzAtODMyMy00OGRhNTY5ODgzMjM=/
+https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny81LzIwMjIgOToxODoyNCBBTSZoYXNoX3ZhbHVlPW5HY1BjRDBBWUJ6bFJuRENqUTh5cVE9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD0zOGQ0NzNlYy02MDZkLTRhY2EtYmNjYS1lYmUwM2I2NGRlNGI=/
 
 #EXTINF:-1 group-title= "PORTUGAL" tvg-id="TVIFIC.meo.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI-Ficção.png",TVI Ficção
 #KODIPROP:inputstream=inputstream.adaptive
