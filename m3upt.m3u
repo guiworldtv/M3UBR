@@ -5,6 +5,11 @@
 # 📺 TV channels
 
 
+#EXTINF:-1 group-title= "PORTUGAL" tvg-id="TVIR.meo.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI-Reality.png",TVI Reality
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://video-auth4.iol.pt/live_tvi_direct/live_tvi_direct/edge_servers/tvireality-720_passthrough/chunks.m3u8?
+
 #EXTINF:-1,Globo
 http://45.92.69.77:8000/play/a021/index.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
