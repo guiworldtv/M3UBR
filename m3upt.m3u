@@ -298,6 +298,11 @@ https://bit.ly/3gejKxf?720p/playlist.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://video-auth4.iol.pt/live_tvi_direct/live_tvi_direct/edge_servers/tvireality-720_passthrough/chunks.m3u8
 
+#EXTINF:-1 group-title= "PORTUGAL" tvg-id="TVIR.meo.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI-Reality.png",TVI Reality HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://video-auth7.iol.pt/live_tvi_direct/live_tvi_direct/edge_servers/tvireality-720_passthrough/chunks.m3u8?nimblesessionid=184934045&wmsAuthSign=c2VydmVyX3RpbWU9OC85LzIwMjIgNDo1Mjo1IEFNJmhhc2hfdmFsdWU9ZFNuZGJQcWFGSlRwMmc5Q1l4KzIvUT09JnZhbGlkbWludXRlcz0xNDQwJmlkPTYyNWEzNzI5LTYwN2MtNDliZS04Y2QxLWU3Zjg5NGZjYTdjMA%3D%3D
+
 #EXTINF:-1 group-title= "PORTUGAL" tvg-id="TVIR.meo.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI-Reality.png",TVI Reality
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
