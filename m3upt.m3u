@@ -30,13 +30,9 @@ http://62.28.71.186:45678/http/192.168.150.50:7050/sicradical
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://streaming-live.rtp.pt/liverepeater/smil:rtp1HD.smil/playlist.m3u8|user-agent=Opera
-#EXTINF:-1 tvg-id="" tvg-id="RTP 1" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/gray-negative/horizontal/rtpinternacional.png?h=56&q=100&fm=png32" group-title= "Portugal",🇵🇹 ●| RTP Internacional
-http://189.91.128.146:4444/udp/227.10.20.146:1234
-#EXTINF:-1 tvg-id="RTP 1" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/RTP1hd.png" group-title= "Portugal",🇵🇹 ●| RTP 1ᴴᴰ [only simpletv]
-https://streaming-live.rtp.pt/liverepeater/rtpClean1HD.smil/chunklist_b1290000_slpor.m3u8
-#EXTINF:-1 tvg-id="RTP 1" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/RTP1hd.png" group-title= "Portugal",🇵🇹 ●| RTP 1ᴴᴰ [ON|VLC]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://streaming-live.rtp.pt/liverepeater/rtpClean1HD.smil/chunklist_b1290000_slpor.m3u8?jerry1
+
+
+
 
 
 #EXTINF:-1 group-title="PORTUGAL" tvg-id="rtp2hd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP2.png",RTP 2
@@ -225,6 +221,8 @@ https://streaming-live.rtp.pt/liverepeater/smil:rtpmem.smil/playlist.m3u8|user-a
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://streaming-live.rtp.pt/liverepeater/smil:estudoemcasa.smil/inspiration.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-id="RTP 1" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/gray-negative/horizontal/rtpinternacional.png?h=56&q=100&fm=png32" group-title= "Portugal",🇵🇹 ●| RTP Internacional
+http://189.91.128.146:4444/udp/227.10.20.146:1234
 
 #EXTINF:-1 group-title= "PORTUGAL" tvg-id="rtpacorhd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP-Açores.png",RTP Açores
 #KODIPROP:inputstream=inputstream.adaptive
