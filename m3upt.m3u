@@ -86,11 +86,9 @@ https://video-auth4.iol.pt/live_edge/tvi_abr/edge_servers/tvi-480p/chunks.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://streaming-live.rtp.pt/livetvhlsDVR/rtpnHDdvr.smil/playlist.m3u8|user-agent=Opera
-#EXTINF:-1 tvg-id="RTP 3" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/rtp3.png" group-title= "Portugal",🇵🇹 ●| RTP 3ᴴᴰ 
+#EXTINF:-1 tvg-id="rtp3hd.tv.vodafone.pt" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/rtp3.png" group-title= "Portugal",🇵🇹 ●| RTP 3ᴴᴰ 
 https://bit.ly/rtp3_pt?/index.m3u8
-#EXTINF:-1 tvg-id="RTP 3" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/rtp3.png" group-title= "Portugal",🇵🇹 ●| RTP 3ᴴᴰ [ON|VLC]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://streaming-live.rtp.pt/liverepeater/smil:rtpnHD.smil/inspiration.m3u8?jerry3
+
 
 
 #EXTINF:-1 group-title= "PORTUGAL" tvg-id="sicnhd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SIC-Notícias.png",SIC Notícias ( COM VPN )
@@ -101,7 +99,7 @@ https://streaming-live.rtp.pt/liverepeater/smil:rtpnHD.smil/inspiration.m3u8?jer
 #EXTINF:-1 group-title= "PORTUGAL" tvg-id="sicnhd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SIC-Notícias.png",SIC Notícias ( COM VPN ) 2
 https://sicnot.live.impresa.pt/sicnot540p.m3u8
 
-#EXTINF:-1 tvg-id="sicn.pt" group-title= "Portugal" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b7/SICNoticias2011.png",🇵🇹 ●| SIC Noticiasᴴᴰ 
+#EXTINF:-1 tvg-id="sicn.pt" group-title="PORTUGAL" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b7/SICNoticias2011.png",🇵🇹 ●| SIC Noticiasᴴᴰ 
 https://bit.ly/sicnotici?/index.m3u8
 
 
@@ -137,15 +135,15 @@ https://doq6y2m748j16.cloudfront.net/playlist_1920x1080.m3u8
 
 
 
-#EXTINF:-1 tvg-id="" group-title="CNN's" tvg-logo="https://www.cnnbrasil.com.br/wp-content/themes/cnnbrasil/assets/favicon/apple-touch-icon.png",CNN INDIA
+#EXTINF:-1 tvg-id="" group-title="CNN's" tvg-logo="https://images.news18.com/static_news18/pix/ibnhome/news18/megamenu/News18_logo.svg",CNN INDIA
 https://cnnnews18-lh.akamaihd.net/i/cnnnews18_1@174950/index_5_av-p.m3u8?sd=10&rebase=on
 
 
-#EXTINF:-1 tvg-id="" group-title="CNN's" tvg-logo="https://www.cnnbrasil.com.br/wp-content/themes/cnnbrasil/assets/favicon/apple-touch-icon.png",CNN INDONESIA
+#EXTINF:-1 tvg-id="" group-title="CNN's" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIFOiTu3AdvEbMU59ITXCkJbPTkymY1zAqt9JQlb87Cb8wliVDDnbY9ITMVrpAex3gOUk&usqp=CAU",CNN INDONESIA
 https://live.cnnindonesia.com/livecnn/cnntv.smil/chunklist_w1719934476_b384000_sleng.m3u8
 
 
-#EXTINF:-1 tvg-id="" group-title="CNN's" tvg-logo="https://www.cnnbrasil.com.br/wp-content/themes/cnnbrasil/assets/favicon/apple-touch-icon.png",CNN FILIPINAS
+#EXTINF:-1 tvg-id="" group-title="CNN's" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/CNN_Philippines_Logo.svg/220px-CNN_Philippines_Logo.svg.png",CNN FILIPINAS
 https://streaming.cnnphilippines.com/live/myStream/chunklist_w265386716.m3u8
 
 
