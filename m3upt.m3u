@@ -13,7 +13,7 @@ https://vidplus.pc.cdn.bitgravity.com/cnbceu-origin/live/cnbceu-origin/live_720p
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
 
 
-#EXTINF:-1 group-title="Portugal",Tv Record
+#EXTINF:-1 group-title="Portugal" tvg-id="tvrechd.tv.vodafone.pt" tvg-logo="https://web.ottimg.vodafone.pt/dynamic-image-server/channel_logo_tablet_details/238/",Tv Record
 http://62.28.71.186:45678/http/192.168.150.137:7151/recordtv
 #EXTINF:-1 group-title="Portugal",Sic Noticias
 http://62.28.71.186:45678/http/192.168.150.50:7050/sicnoticias
@@ -225,7 +225,7 @@ http://103.139.171.5:5001/live.php?c=CNN_NEWS_18&q=1200&e=junk.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JECWgUK.png" group-title="CNN's",N1 CNN
 https://best-str.umn.cdn.united.cloud/stream?stream=sp1400&sp=n1info&channel=n1hrv&u=n1info&p=n1Sh4redSecre7iNf0
 
-#EXTINF:-1 group-title="TV" tvg-id="" tvg-logo="https://www.raiplay.it/lfe_apple/RaiNews.png",RAI NEWS24
+#EXTINF:-1 group-title="TV" tvg-id="rainews.tv.vodafone.pt" tvg-logo="https://www.raiplay.it/lfe_apple/RaiNews.png",RAI NEWS24
 https://streamcdng18-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/rainews1/hls/rainews_1200/chunklist.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="euronw.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Euronews.png",Euronews PT
