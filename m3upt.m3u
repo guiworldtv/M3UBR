@@ -15,18 +15,18 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
 
 #EXTINF:-1 group-title="Portugal" tvg-id="tvrechd.tv.vodafone.pt" tvg-logo="https://web.ottimg.vodafone.pt/dynamic-image-server/channel_logo_tablet_details/238/",Tv Record
 http://62.28.71.186:45678/http/192.168.150.137:7151/recordtv
-#EXTINF:-1 group-title="Portugal",Sic Noticias
+#EXTINF:-1 group-title="Portugal" tvg-id="SICNoticias.pt",Sic Noticias
 http://62.28.71.186:45678/http/192.168.150.50:7050/sicnoticias
-#EXTINF:-1 group-title="Portugal",Cmtv
+#EXTINF:-1 group-title="Portugal" tvg-id="CMTV.pt",Cmtv
 http://62.28.71.186:45678/http/192.168.150.50:7050/cmtv
-#EXTINF:-1 group-title="Portugal",Sic Mulher
+#EXTINF:-1 group-title="Portugal" tvg-id="SICMulher.pt",Sic Mulher
 http://62.28.71.186:45678/http/192.168.150.50:7050/sicmulher
-#EXTINF:-1 group-title="Portugal",Sic Caras
+#EXTINF:-1 group-title="Portugal" tvg-id="SICCaras.pt",Sic Caras
 http://62.28.71.186:45678/http/192.168.150.137:7151/siccarashd
-#EXTINF:-1 group-title="Portugal",Sic Radical
+#EXTINF:-1 group-title="Portugal" tvg-id="SICRadical.ptt",Sic Radical
 http://62.28.71.186:45678/http/192.168.150.50:7050/sicradical
 
-#EXTINF:-1 group-title="PORTUGAL" tvg-logo="https://tpa.ao/fotos/frontends/tpa-logo_18207631225f873e3cee737.png",TPA 1
+#EXTINF:-1 group-title="PORTUGAL" tvg-id="TPAInternacional.ao" tvg-logo="https://tpa.ao/fotos/frontends/tpa-logo_18207631225f873e3cee737.png",TPA 1
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://player-api.new.livestream.com/accounts/30360708/events/9496693/broadcasts/232643190.secure.m3u8
@@ -349,12 +349,12 @@ https://video-auth4.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificca
 #EXTINF:-1 tvg-id="" group-title= "Portugal" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/tvificcao.png",🇵🇹 ●| TVI Ficção
 https://bit.ly/3gejKxf?720p/playlist.m3u8
 
-#EXTINF:-1 group-title= "PORTUGAL" tvg-id="TVIR.meo.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI-Reality.png",TVI Reality HD
+#EXTINF:-1 group-title="PORTUGAL" tvg-id="TVIR.meo.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI-Reality.png",TVI Reality HD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://video-auth4.iol.pt/live_tvi_direct/live_tvi_direct/edge_servers/tvireality-720_passthrough/chunks.m3u8
 
-#EXTINF:-1 group-title= "PORTUGAL" tvg-id="TVIR.meo.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI-Reality.png",TVI Reality
+#EXTINF:-1 group-title="PORTUGAL" tvg-id="TVIR.meo.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI-Reality.png",TVI Reality
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://video-auth2.iol.pt/live_tvi_direct/live_tvi_direct/edge_servers/tvireality-480p/playlist.m3u8
