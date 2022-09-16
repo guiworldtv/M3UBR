@@ -114,7 +114,7 @@ https://streaming-live.rtp.pt/livetvhlsDVR/rtpnHDdvr.smil/playlist.m3u8|user-age
 #EXTINF:-1 group-title="PORTUGAL" tvg-id="rtp3hd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP3.png",RTP 3 - 2
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://streaming-live-app.rtp.pt/liverepeater/smil:rtpn.smil/rtp_playlist.m3u8
+https://streaming-live-app.rtp.pt/liverepeater/smil:rtpn.smil/rtp_playlist.m3u8|user-agent=Opera
 
 #EXTINF:-1 tvg-id="rtp3hd.tv.vodafone.pt" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/rtp3.png" group-title= "Portugal",🇵🇹 ●| RTP 3ᴴᴰ 
 https://bit.ly/rtp3_pt?/index.m3u8
@@ -129,7 +129,7 @@ https://bit.ly/rtp3_pt?/index.m3u8
 #EXTINF:-1 group-title= "PORTUGAL" tvg-id="sicnhd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SIC-Notícias.png",SIC Notícias ( COM VPN ) 2
 https://sicnot.live.impresa.pt/sicnot540p.m3u8
 
-#EXTINF:-1 tvg-id="sicn.pt" group-title="PORTUGAL" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b7/SICNoticias2011.png",🇵🇹 ●| SIC Noticiasᴴᴰ 
+#EXTINF:-1 group-title= "PORTUGAL" tvg-id="sicnhd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SIC-Notícias.png",🇵🇹 ●| SIC Noticiasᴴᴰ 
 https://bit.ly/sicnotici?/index.m3u8
 
 
