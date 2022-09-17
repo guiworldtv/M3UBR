@@ -674,10 +674,21 @@ https://bloomberg-bloomberg-3-br.samsung.wurl.com/manifest/playlist.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://bloomberg-bloomberg-1-pt.samsung.wurl.com/manifest/playlist.m3u8
 
+#EXTINF:-1 group-title="TV" tvg-id="BLOOM.meo.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Bloomberg.png",Bloomberg TV Europe 2
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://www.bloomberg.com/media-manifest/streams/eu.m3u8
+
 #EXTINF:-1 group-title="TV" tvg-id="BLOOM.meo.pt" tvg-logo="https://assets.bwbx.io/s3/multimedia/public/app/images/bloomberg_default-a4f15fa7ee.jpg",Bloomberg TV Austrália
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://www.bloomberg.com/media-manifest/streams/aus.m3u8
+
+
+#EXTINF:-1 group-title="TV" tvg-id="BLOOM.meo.pt" tvg-logo="https://assets.bwbx.io/s3/multimedia/public/app/images/bloomberg_default-a4f15fa7ee.jpg",Bloomberg TV Ásia
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://www.bloomberg.com/media-manifest/streams/asia.m3u8
 
 
 #EXTINF:-1 group-title="TV" tvg-id="BLOOM.meo.pt" tvg-logo="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iPWENTEvPdwc/v0/955x500.png",Bloomberg Quicktake
