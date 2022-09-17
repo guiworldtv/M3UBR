@@ -681,6 +681,10 @@ https://live-qt-primary.akamaized.net/qt/Channel-QT-TX-AWS-virginia-2/Source-QT-
 https://www.bloomberg.com/media-manifest/streams/politics.m3u8
 
 
+#EXTINF:-1 group-title="TV" tvg-id="BLOOM.meo.pt" tvg-logo="https://assets.bwbx.io/s3/multimedia/public/app/images/bloomberg_default-a4f15fa7ee.jpg", Bloomberg Principais Eventos Asia
+https://www.bloomberg.com/media-manifest/streams/asia-event.m3u8
+
+
 
 
 
