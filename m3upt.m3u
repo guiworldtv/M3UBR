@@ -677,7 +677,8 @@ https://bloomberg-bloomberg-1-pt.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 group-title="TV" tvg-id="BLOOM.meo.pt" tvg-logo="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iPWENTEvPdwc/v0/955x500.png",Bloomberg Quicktake
 https://live-qt-primary.akamaized.net/qt/Channel-QT-TX-AWS-virginia-2/Source-QT-10M-2-sn9jy9-BP-07-02-oNnPi5xc6sq_live.m3u8
 
-
+#EXTINF:-1 group-title="TV" tvg-id="BLOOM.meo.pt" tvg-logo="https://assets.bwbx.io/s3/multimedia/public/app/images/bloomberg_default-a4f15fa7ee.jpg", Bloomberg Japan Politics
+https://www.bloomberg.com/media-manifest/streams/politics.m3u8
 
 
 
