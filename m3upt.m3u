@@ -21,10 +21,11 @@ http://62.28.71.186:45678/http/192.168.150.137:7151/siccarashd
 #EXTINF:-1 group-title="Portugal" tvg-id="SICRadical.ptt",Sic Radical
 http://62.28.71.186:45678/http/192.168.150.50:7050/sicradical
 
-#EXTINF:-1 group-title="PORTUGAL" tvg-id="TPAInternacional.ao" tvg-logo="https://tpa.ao/fotos/frontends/tpa-logo_18207631225f873e3cee737.png",TPA 1
+#EXTINF:-1 group-title="PORTUGAL" tvg-id="TPAInternacional.ao" tvg-logo="https://img.new.livestream.com/events/000000000090e875/7059fa6d-997f-41dd-809d-e73949388a1a_640x359.jpg",TPA 1
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://player-api.new.livestream.com/accounts/30360708/events/9496693/broadcasts/9496693.secure.m3u8
+
 
 
 #EXTINF:-1 group-title="PORTUGAL" tvg-id="rtp1hd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP1.png",RTP 1
@@ -198,11 +199,13 @@ https://live.cnnindonesia.com/livecnn/cnntv.smil/chunklist_w1719934476_b384000_s
 #EXTINF:-1 tvg-id="" group-title="CNN's" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIFOiTu3AdvEbMU59ITXCkJbPTkymY1zAqt9JQlb87Cb8wliVDDnbY9ITMVrpAex3gOUk&usqp=CAU",CNN INDONESIA 2
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
 
+
 #EXTINF:-1 tvg-id="" group-title="CNN's" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/CNN_Philippines_Logo.svg/220px-CNN_Philippines_Logo.svg.png",CNN FILIPINAS
 https://streaming.cnnphilippines.com/live/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="CNN's" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/CNN_Philippines_Logo.svg/220px-CNN_Philippines_Logo.svg.png",CNN FILIPINAS 2
 https://streaming.cnnphilippines.com/live/myStream/chunklist_w265386716.m3u8
+
 
 
 
