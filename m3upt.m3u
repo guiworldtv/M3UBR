@@ -156,7 +156,12 @@ https://bit.ly/sicnotici?/index.m3u8
 https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="CNNBrasil.br" tvg-logo="https://i.ytimg.com/vi/Oae2ZLXA5WI/maxresdefault.jpg" group-title="CNN's",CNN Brasil
+EXTINF:-1 group-title="NEWS WORLD" tvg-id="LCH4068" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu_RgBiJ951f8uOLQ5xiJrdiiiHgCuLchH5Exv6MRg=s900-c-k-c0x00ffffff-no-rj",CNN Brasil
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://bit.ly/cnnBrasil?/chunks.m3u8
+
+#EXTINF:-1 group-title="CNN's" tvg-id="LCH4068" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu_RgBiJ951f8uOLQ5xiJrdiiiHgCuLchH5Exv6MRg=s900-c-k-c0x00ffffff-no-rj",CNN Brasil
 http://189.91.128.146:4444/udp/227.10.20.160:1234
 
 #EXTINF:-1 group-title="PORTUGAL" group-title="CNN's" tvg-id="cnnpthd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CNN-Portugal.png",CNN Portugal
@@ -179,10 +184,7 @@ https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX
 https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOS8yMDIyIDEyOjQ0OjcgUE0maGFzaF92YWx1ZT1XWTJHRXhnRGtvQ2ZTSGFCUzQ4dFlnPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9YjZiY2ZkYWMtMTg2NC00OGM2LTkzMzMtMDA4MTAzMmNkYTc1/
 
 
-EXTINF:-1 group-title="NEWS WORLD" tvg-id="LCH4068" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu_RgBiJ951f8uOLQ5xiJrdiiiHgCuLchH5Exv6MRg=s900-c-k-c0x00ffffff-no-rj",CNN Brasil
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://bit.ly/cnnBrasil?/chunks.m3u8
+
 
 
 
