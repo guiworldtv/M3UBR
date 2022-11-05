@@ -167,7 +167,7 @@ https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/cl/mi.tv.epg.xml,https://iptv-org.github.io/epg/guides/bo/comteco.com.bo.epg.xml,https://iptv-org.github.io/epg/guides/ar/mi.tv.epg.xml,https://iptv-org.github.io/epg/guides/cl/gatotv.com.epg.xml,https://iptv-org.github.io/epg/guides/us-en/beinsports.com.epg.xml" tvg-shift=0 catchup="shift" catchup-days=6 
 
 
-#EXTINF:-1 tvg-id="CNNInternationalLatinAmerica.us", tvg-logo="https://i.imgur.com/RfL9VWI.png",CNN International
+#EXTINF:-1 tvg-id="CNNInternationalLatinAmerica.us" tvg-logo="https://i.imgur.com/RfL9VWI.png",CNN International
 https://cnn-cnninternational-1-gb.samsung.wurl.com/playlist_1280x720_3000k.m3u8
 
 EXTINF:-1 group-title="NEWS WORLD" tvg-id="LCH4068" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu_RgBiJ951f8uOLQ5xiJrdiiiHgCuLchH5Exv6MRg=s900-c-k-c0x00ffffff-no-rj",CNN Brasil
