@@ -6267,19 +6267,7 @@ https://rtvehlslivestream.akamaized.net/hls/live/2042357/24HCA_AKA_HLS_GL0/maste
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main.m3u8
 
-
-#EXTINF:-1 group-title="TV" tvg-id="LA 1" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/La1.png",La 1
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://rtvelivestream.akamaized.net/segments/la1/la1_main.m3u8
-
-
-#EXTINF:-1 group-title="TV" tvg-id="LA 1" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/La1.png",La 1
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://rtvelivestream.akamaized.net/segments/la1/la1_main_720.m3u8
-
-#EXTINF:-1 group-title="TV" tvg-id="LA 1" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/La1.png",La 1 - CATALUNHA
+#EXTINF:-1 group-title="TV" tvg-id="LA 1" tvg-logo="https://img2.rtve.es/resources/thumbslive/H_3293681.jpg",La 1 - CATALUNHA
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://rtvelivestream-clnx.rtve.es/rtvesec/cat/la1_cat_main_720.m3u8
@@ -6289,23 +6277,7 @@ https://rtvelivestream-clnx.rtve.es/rtvesec/cat/la1_cat_main_720.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://rtvelivestream.akamaized.net/rtvesec/can/la1_can_main.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="LA 2" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/La2.png",La 2
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://rtvelivestream.akamaized.net/segments/la2/la2_main_1080.m3u8
-
 #EXTINF:-1 group-title="TV" tvg-id="LA 2" tvg-logo="https://img2.rtve.es/resources/thumbslive/H_1688885.jpg",La 2
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://rtvelivestream-clnx.rtve.es/rtvesec/la2/la2_main.m3u8
-
-
-#EXTINF:-1 group-title="TV" tvg-id="LA 2" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/La2.png",La 2
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://rtvelivestream.akamaized.net/segments/la2/la2_main.m3u8
-
-#EXTINF:-1 group-title="TV" tvg-id="LA 2" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/La2.png",La 2
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://rtvelivestream-clnx.rtve.es/rtvesec/la2/la2_main.m3u8
@@ -6370,10 +6342,6 @@ https://events1-crtvg.flumotion.com/playlist.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://amodino-crtvg.flumotion.com/playlist.m3u8
-
-#EXTINF:-1 group-title="TV" tvg-id="tvgalicia.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVG.png",Galicia: TVG Momentos G
-https://momentog-crtvg.flumotion.com/playlist.m3u8
-
 
 #EXTINF:-1 group-title="TV" tvg-logo="https://img.ccma.cat/multimedia/png/1/5/1558918474451.png",324CATALUNHA
 https://directes-tv-int.ccma.cat/live-content/canal324-hls/master.m3u8
