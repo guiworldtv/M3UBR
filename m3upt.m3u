@@ -1591,6 +1591,11 @@ https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
 
+#EXTINF:-1 group-title="TV" group-title="NEWS WORLD" tvg-id="CBSN" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CBSN.png",CBS News 2
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://dai.google.com/ssai/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
+
 
 
 
