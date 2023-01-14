@@ -1,27 +1,19 @@
 #!/bin/bash
 
-# Define the configuration file
-config_file="./channels.cfg"
+# TVI - update the stream URL of TVI
 
-# Check if the configuration file exists
-if [ ! -f $config_file ]; then
-  echo "Error: Configuration file $config_file does not exist."
-  exit 1
-fi
+sed -i "/live_tvi\/live_tvi/ c https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=$(wget https://services.iol.pt/matrix?userId= -o /dev/null -O -)/" m3upt.m3u
 
-# Read the configuration file
-while read line; do
-  # Skip comments and empty lines
-  [[ $line =~ ^#.*$ || -z $line ]] && continue
-  
-  # Split the line into an array
-  IFS='=' read -ra channel_info <<< "$line"
-  channel=${channel_info[0]}
-  url=${channel_info[1]}
+# CNN Portugal - update the stream URL of CNN Portugal
 
-  # Update the stream URL
-  sed -i "s|$url|$url?wmsAuthSign=$(wget https://services.iol.pt/matrix?userId= -o /dev/null -O -)|" m3upt.m3u
-  echo "Updated stream URL for $channel"
-done < $config_file
+sed -i "/live_cnn/ c https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=$(wget https://services.iol.pt/matrix?userId= -o /dev/null -O -)/" m3upt.m3u
+
+# TVI Internacional - update the stream URL of TVI Internacional
+
+sed -i "/live_tvi_internacional/ c https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=$(wget https://services.iol.pt/matrix?userId= -o /dev/null -O -)/" m3upt.m3u
+
+# TVI Reality - update the stream URL of TVI Reality
+
+sed -i "/live_tvi_direct/ c https://video-auth4.iol.pt/live_tvi_direct/live_tvi_direct/edge_servers/tvireality-720_passthrough/playlist.m3u8?wmsAuthSign=$(wget https://services.iol.pt/matrix?userId= -o /dev/null -O -)/" m3upt.m3u
 
 exit 0
