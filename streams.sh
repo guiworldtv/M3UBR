@@ -1,19 +1,25 @@
 #!/bin/bash
 
-# TVI - update the stream URL of TVI
+# Define the base URL
+base_url="https://video-auth6.iol.pt"
 
-sed -i "/live_tvi\/live_tvi/ c https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=$(wget https://services.iol.pt/matrix?userId= -o /dev/null -O -)/" m3upt.m3u
+# Define the channels and their respective URLs
+channels=(
+  ["TVI"]="live_tvi/live_tvi/playlist.m3u8"
+  ["CNN Portugal"]="live_cnn/live_cnn/playlist.m3u8"
+  ["TVI Internacional"]="live_tvi_internacional/live_tvi_internacional/playlist.m3u8"
+  ["TVI Reality"]="live_tvi_direct/live_tvi_direct/edge_servers/tvireality-720_passthrough/playlist.m3u8"
+)
 
-# CNN Portugal - update the stream URL of CNN Portugal
+# Obtain the authentication token
+token=$(wget https://services.iol.pt/matrix?userId= -o /dev/null -O -)
 
-sed -i "/live_cnn/ c https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=$(wget https://services.iol.pt/matrix?userId= -o /dev/null -O -)/" m3upt.m3u
-
-# TVI Internacional - update the stream URL of TVI Internacional
-
-sed -i "/live_tvi_internacional/ c https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=$(wget https://services.iol.pt/matrix?userId= -o /dev/null -O -)/" m3upt.m3u
-
-# TVI Reality - update the stream URL of TVI Reality
-
-sed -i "/live_tvi_direct/ c https://video-auth4.iol.pt/live_tvi_direct/live_tvi_direct/edge_servers/tvireality-720_passthrough/playlist.m3u8?wmsAuthSign=$(wget https://services.iol.pt/matrix?userId= -o /dev/null -O -)/" m3upt.m3u
+# Update the URLs in the m3upt.m3u file
+for channel in "${channels[@]}"; do
+  name=${channel[0]}
+  url=${channel[1]}
+  sed -i "s|$base_url/$url|$base_url/$url?wmsAuthSign=$token|" m3upt.m3u
+  echo "Updated stream URL for $name"
+done
 
 exit 0
