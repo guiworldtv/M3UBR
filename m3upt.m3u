@@ -7,10 +7,7 @@
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/Metro_Globe_Network.png" group-title="NATIONAL NEWS",Metro Globe Network
 https://edge.medcom.id/live-edge/smil:mgnch.smil/chunklist_w192763708_b3884000_sleng.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zxe2RT2.png" group-title="NATIONAL NEWS",TVRI World
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI3)/index.m3u8
-
-#EXTINF:-1 tvg-id="CNNIndonesia.id" tvg-logo="https://i.imgur.com/aBk06sY.png" group-title="NATIONAL NEWS",CNN Indonesia
+#EXTINF:-1 tvg-id="CNNIndonesia.id" tvg-logo="https://i.imgur.com/aBk06sY.png" group-title="CNN's",CNN Indonesia
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w891045790_b384000_sleng.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qdJUDL8.png" group-title="NATIONAL NEWS",CNBC Indonesia
@@ -23,13 +20,6 @@ https://live-kg.jixie.media/live/kompastv_lhd.m3u8
 
 #EXTINF:0 tvg-id="BeritaSatu.id" tvg-logo="https://i.imgur.com/08XEDhX.png" group-title="NATIONAL NEWS",BTV
 https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
-
-
-#EXTINF:-1 tvg-id="TVEInternacional.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Logo_TVE-Internacional.svg/1024px-Logo_TVE-Internacional.svg.png" group-title="SPANISH ENTERTAINMENT",TVE Internacional
-http://rr.dens.tv/h/h158/index2.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Antena_3_Internacional_logo_2017.svg/800px-Antena_3_Internacional_logo_2017.svg.png" group-title="SPANISH ENTERTAINMENT",Antena 3 Internacional
-https://mdstrm.com/live-stream-playlist/5cae574f875a4e1adebe5c39.m3u8?access_token=DST4b676d7da5a2a92ee15f8efcbcd00606
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TQwXlDO.png" group-title="TURKISH ENTERTAINMENT",Euro D
