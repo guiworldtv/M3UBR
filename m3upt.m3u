@@ -78,7 +78,7 @@ https://live-cdn.mncnow.id/live/eds/CNNInternational/sa_dash_vmx/CNNInternationa
 https://live-cdn.mncnow.id/live/eds/BBCWorldNews/sa_dash_vmx/BBCWorldNews.mpd
 
 
-#EXTINF:-1 tvg-id="SkyNews.uk" tvg-logo="https://i.imgur.com/YxxHcfZ.png" group-title="WORLD NEWS",Sky News
+#EXTINF:-1 tvg-id="SkyNews.uk" tvg-logo="https://i.imgur.com/YxxHcfZ.png" group-title="NEWS WORLD",Sky News
 https://siloh.pluto.tv/lilo/production/SkyNews/master.m3u8
 
 #EXTINF:0 tvg-id="CNA.sg" tvg-logo="https://i.imgur.com/xJZ9ChT.png" group-title="WORLD NEWS",CNA
