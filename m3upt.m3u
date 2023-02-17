@@ -922,6 +922,10 @@ https://video-auth4.iol.pt/live_edge/tvi_abr/edge_servers/tvi-480p/chunks.m3u8
 
 
 
+#EXTINF:-1 group-title="PORTUGAL" tvg-id="sicnhd.tv.vodafone.pt" tvg-logo="https://cfvod.kaltura.com/p/4526593/sp/452659300/thumbnail/entry_id/1_9pwkfro5/width/0/height/0/quality/85/format/png",SIC Notícias - SEM VPN
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://cdnapisec.kaltura.com/p/4526593/sp/4526593/playManifest/entryId/1_j8ztwihx/deliveryProfileId/672/protocol/https/format/applehttp/a.m3u8
 
 
 #EXTINF:-1 group-title="PORTUGAL" tvg-id="sicnhd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SIC-Notícias.png",SIC Notícias ( COM VPN )
