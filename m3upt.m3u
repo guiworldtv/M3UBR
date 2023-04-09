@@ -782,8 +782,13 @@ http://sochi.camera:8080/cam_255/tracks-v1a1/index.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0c8iZq8.png" group-title="TÜRKIYE",Kanal D
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0c8iZq8.png" group-title="TÜRKIYE",Kanal D 
+https://demiroren-live.daioncdn.net/kanald/kanald.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0c8iZq8.png" group-title="TÜRKIYE",Kanal D 2
 https://live.duhnet.tv/S2/HLS_LIVE/kanaldnp/playlist.m3u8
+
+
 
 
 # 📺 TV channels
