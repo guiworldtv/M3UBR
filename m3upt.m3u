@@ -952,8 +952,8 @@ https://sicnot.live.impresa.pt/sicnot540p.m3u8
 https://bit.ly/sicnotici?/index.m3u8
 
 
-
-
+#EXTINF:-1 group-title="NEWS WORLD" tvg-logo="https://files2.app.ertflix.gr/files/channels/ertnews-logo-800x300-f2.png", ERT NEWS - GRÉCIA
+https://cbd537474fbad4634b64787657ff6456.msvdn.net/ertworld/ert_world_main/mainabr/playlist_dvr.m3u8
 
 #EXTINF:-1  group-title="CNN's" tvg-id="LCH35" tvg-name="CNN US" tvg-logo="https://www.cnnbrasil.com.br/wp-content/themes/cnnbrasil/assets/favicon/apple-touch-icon.png" ,CNN US 1
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
