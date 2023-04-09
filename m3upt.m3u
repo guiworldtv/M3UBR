@@ -307,9 +307,11 @@ https://tv.ensonhaber.com/tv/tr/tgrthaber/index.m3u8
 #EXTINF:-1 tvg-id="TGRTHaber.tr" tvg-logo="https://www.cnnturk.com/favicon/favicon-192x192.png group-title="TURKISH NEWS",CNN TURCO
 https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TGRTHaber.tr" tvg-logo="https://www.yirmidort.tv/assets/img/logo.png group-title="TURKISH NEWS",24 TV
+#EXTINF:-1 tvg-id="TGRTHaber.tr" tvg-logo="https://www.yirmidort.tv/assets/img/logo.png" group-title="TURKISH NEWS",24 TV
 https://turkmedya-live.ercdn.net/tv24/tv24.m3u8
 
+#EXTINF:-1 tvg-id="TGRTHaber.tr" tvg-logo="hhttps://s.ulusal.com.tr/assets/web/images/logo.png" group-title="TURKISH NEWS",Ulusal Kanal
+https://stream.guventechnology.com:19360/ulusaltv/ulusaltv.m3u8
 
 #EXTINF:-1 tvg-id="TRTHaber.tr" tvg-logo="https://i.imgur.com/Qq58W0E.png" group-title="TURKISH NEWS",TRT Haber
 https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
