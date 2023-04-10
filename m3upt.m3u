@@ -1830,12 +1830,12 @@ https://amg01573-7nn-7nnono-ono-pcdj3.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="TV" tvg-id="tve24.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVE-24h.png",TVE 24h
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://rtvelivestream.akamaized.net/segments/24h/24h_main.m3u8
+https://rtvelivestream-clnx.rtve.es/rtvesec/24h/24h_main.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="tve24.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVE-24h.png",TVE 24h
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://rtvelivestream.akamaized.net/segments/24h/24h_main_720.m3u8
+https://rtvelivestream-clnx.rtve.es/rtvesec/24h/24h_main_720.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="tve24.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVE-24h.png",TVE 24h Canarias
 #KODIPROP:inputstream=inputstream.adaptive
@@ -1851,7 +1851,13 @@ https://rtvehlslivestream.akamaized.net/hls/live/2042357/24HCA_AKA_HLS_GL0/maste
 #EXTINF:-1 group-title="TV" tvg-id="LA 1" tvg-logo="https://img2.rtve.es/resources/thumbslive/H_1688877.jpg",La 1
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
+https://ztnr.rtve.es/ztnr/1688877.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-id="LA 1" tvg-logo="https://img2.rtve.es/resources/thumbslive/H_1688877.jpg",La 1
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
 https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main.m3u8
+
 
 #EXTINF:-1 group-title="TV" tvg-id="LA 1" tvg-logo="https://img2.rtve.es/resources/thumbslive/H_3293681.jpg",La 1 - CATALUNHA
 #KODIPROP:inputstream=inputstream.adaptive
